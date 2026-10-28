@@ -97,12 +97,12 @@ function cardText(c) {
   return (f ? f() : c.title || '').replace(/\*\*/g, '');
 }
 /* ---------- speech ---------- */
-function speak(text, onend) {
+function speak(text, onend, lang) {
   if (!('speechSynthesis' in window)) { toast('🔇 Voice not supported here'); return false; }
-  speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.rate = .95; u.lang = 'en-US'; if (onend) u.onend = onend; speechSynthesis.speak(u); return true;
+  speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.rate = .95; u.lang = lang || 'en-US'; if (onend) u.onend = onend; speechSynthesis.speak(u); return true;
 }
 const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-function grade(said, c) { const norm = x => x.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim(); const s = norm(said); if (s === norm(c.answer)) return true; if (c.match === 'any') return c.keywords.some(k => s.includes(k.toLowerCase())); const hit = c.keywords.filter(k => s.includes(k.toLowerCase())).length; return hit >= Math.max(1, Math.ceil(c.keywords.length * .6)) || (c.keywords.length > 2 && hit >= c.keywords.length - 1); }
+function grade(said, c) { const norm = x => x.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim(); const s = norm(said); if (s === norm(c.answer)) return true; if (c.match === 'any') return c.keywords.some(k => s.includes(norm(k))); const hit = c.keywords.filter(k => s.includes(norm(k))).length; return hit >= Math.max(1, Math.ceil(c.keywords.length * .6)) || (c.keywords.length > 2 && hit >= c.keywords.length - 1); }
 
 /* ---------- renderers ---------- */
 const R = {
@@ -120,7 +120,7 @@ const R = {
   },
   listen(card, c) {
     const txt = el('div', { class: 'body blur' }, c.text);
-    const play = el('button', { class: 'btn primary', 'data-act': 'play', onclick: () => { const ok = speak(c.text, () => play.textContent = '▶️ Play again'); play.textContent = ok ? '🔊 Playing…' : '▶️ Play'; if (!card._done) { card._done = 1; award(4, c); } } }, '▶️ Play');
+    const play = el('button', { class: 'btn primary', 'data-act': 'play', onclick: () => { const ok = speak(c.text, () => play.textContent = '▶️ Play again', c.lang); play.textContent = ok ? '🔊 Playing…' : '▶️ Play'; if (!card._done) { card._done = 1; award(4, c); } } }, '▶️ Play');
     card.append(el('h2', {}, c.title), el('div', { class: 'mut' }, 'Listen first, then reveal the text.'), play, txt,
       el('button', { class: 'btn', onclick: e => { txt.classList.add('on'); e.target.remove(); } }, '👀 Show text'));
     card._autoplay = () => play.click();
@@ -130,7 +130,7 @@ const R = {
     const check = said => { if (card._done) return; card._done = 1; const ok = grade(said, c); award(ok ? 10 : 2, c, ok); buzz(ok ? 20 : [40, 30, 40]);
       out.replaceChildren(el('div', { class: 'explain' }, el('b', {}, ok ? '✅ Nailed it! ' : '❌ Not quite. '), `You said: “${said}”. `, el('br'), 'Answer: ' + c.answer)); };
     const mic = el('button', { class: 'btn primary', 'data-act': 'mic' }, SR ? '🎤 Tap & say it' : '🎤 Mic not supported — type below');
-    if (SR) mic.onclick = () => { const r = new SR(); r.lang = 'en-US'; r.interimResults = false; mic.textContent = '🔴 Listening…';
+    if (SR) mic.onclick = () => { const r = new SR(); r.lang = c.lang || 'en-US'; r.interimResults = false; mic.textContent = '🔴 Listening…';
       r.onresult = e => check(e.results[0][0].transcript); r.onerror = e => { mic.textContent = '🎤 Try again (' + e.error + ')'; }; r.onend = () => { if (!card._done) mic.textContent = '🎤 Tap & say it'; }; try { r.start(); } catch { mic.textContent = '🎤 Mic unavailable'; } };
     else mic.disabled = true;
     card.append(el('h2', {}, c.prompt), mic, el('div', { class: 'row' }, input, el('button', { class: 'btn', onclick: () => input.value.trim() && check(input.value.trim()) }, 'Check')), out);

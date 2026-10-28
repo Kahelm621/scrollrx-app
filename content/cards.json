@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "topics": {
   "pharmacy": {
    "label": "Pharmacy Tech",
@@ -16,6 +16,14 @@
   "terms": {
    "label": "Med Terminology",
    "emoji": "🧬"
+  },
+  "spanish": {
+   "label": "Spanish",
+   "emoji": "🇪🇸"
+  },
+  "bio": {
+   "label": "Bioinformatics",
+   "emoji": "🧪"
   }
  },
  "cards": [
@@ -3440,6 +3448,5370 @@
    "back": "coccyx, tailbone",
    "note": "e.g. coccygeal (pertaining to the tailbone)",
    "source": "Medical terminology textbook"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "a-, an-",
+   "back": "without, not, lacking",
+   "note": "e.g. anemia (lack of normal blood/red cells)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-101"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ab-",
+   "back": "away from",
+   "note": "e.g. abduction (moving a limb away from the midline)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-102"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ad-",
+   "back": "toward, near",
+   "note": "e.g. adduction (moving a limb toward the midline)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-103"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ambi-",
+   "back": "both sides",
+   "note": "e.g. ambidextrous (skilled with both hands)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-104"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ana-",
+   "back": "up, apart, again",
+   "note": "e.g. anatomy (cutting apart; study of body structure)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-105"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ante-",
+   "back": "before, in front of",
+   "note": "e.g. antepartum (before childbirth)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-106"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "anti-",
+   "back": "against",
+   "note": "e.g. antibiotic (drug against bacteria)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-107"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "auto-",
+   "back": "self",
+   "note": "e.g. autoimmune (immune response against one's own body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-108"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "bi-",
+   "back": "two, twice",
+   "note": "e.g. bilateral (on both sides)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-109"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "brady-",
+   "back": "slow",
+   "note": "e.g. bradycardia (slow heart rate)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-110"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "circum-",
+   "back": "around",
+   "note": "e.g. circumoral (around the mouth)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-111"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "con-",
+   "back": "together, with",
+   "note": "e.g. congenital (present at birth)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-112"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "contra-",
+   "back": "against, opposite",
+   "note": "e.g. contraindication (reason not to use a treatment)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-113"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "de-",
+   "back": "down, from, removal",
+   "note": "e.g. dehydration (loss of body water)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-114"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "di-",
+   "back": "two, double",
+   "note": "e.g. diplegia (paralysis of corresponding parts on both sides)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-115"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "dia-",
+   "back": "through, across, complete",
+   "note": "e.g. diarrhea (flow through)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-116"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "dis-",
+   "back": "apart, separation",
+   "note": "e.g. dislocation (displacement of a bone from a joint)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-117"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "dys-",
+   "back": "bad, painful, difficult, abnormal",
+   "note": "e.g. dyspnea (difficult breathing)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-118"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ecto-, exo-",
+   "back": "outside, outer",
+   "note": "e.g. ectopic (out of normal place)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-119"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "endo-",
+   "back": "within, inner",
+   "note": "e.g. endoscopy (looking inside the body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-120"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "epi-",
+   "back": "upon, above, over",
+   "note": "e.g. epidermis (outer layer upon the dermis)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-121"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "eu-",
+   "back": "good, normal, well",
+   "note": "e.g. euthyroid (normal thyroid function)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-122"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ex-",
+   "back": "out, away from",
+   "note": "e.g. excision (cutting out)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-123"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "extra-",
+   "back": "outside, beyond",
+   "note": "e.g. extracellular (outside the cell)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-124"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "hemi-",
+   "back": "half",
+   "note": "e.g. hemiplegia (paralysis of one side of the body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-125"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "hetero-",
+   "back": "different, other",
+   "note": "e.g. heterogeneous (made of different parts)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-126"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "homo-, homeo-",
+   "back": "same, alike",
+   "note": "e.g. homeostasis (keeping a stable internal state)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-127"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "hyper-",
+   "back": "above, excessive, beyond normal",
+   "note": "e.g. hypertension (high blood pressure)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-128"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "hypo-",
+   "back": "below, under, deficient",
+   "note": "e.g. hypoglycemia (low blood sugar)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-129"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "in-",
+   "back": "not; also in, into",
+   "note": "e.g. insomnia (inability to sleep)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-130"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "infra-",
+   "back": "below, beneath",
+   "note": "e.g. infraorbital (below the eye socket)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-131"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "inter-",
+   "back": "between",
+   "note": "e.g. intercostal (between the ribs)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-132"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "intra-",
+   "back": "within, inside",
+   "note": "e.g. intravenous (within a vein)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-133"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "iso-",
+   "back": "equal, same",
+   "note": "e.g. isotonic (equal tension or concentration)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-134"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "macro-",
+   "back": "large",
+   "note": "e.g. macrocyte (abnormally large red blood cell)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-135"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "mal-",
+   "back": "bad, poor",
+   "note": "e.g. malnutrition (poor nutrition)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-136"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "mega-, megalo-",
+   "back": "large, enlarged",
+   "note": "e.g. megacolon (abnormally enlarged colon)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-137"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "meso-",
+   "back": "middle",
+   "note": "e.g. mesoderm (middle germ layer of an embryo)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-138"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "meta-",
+   "back": "change, after, beyond",
+   "note": "e.g. metastasis (spread of cancer to another site)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-139"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "micro-",
+   "back": "small",
+   "note": "e.g. microscope (instrument to view small objects)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-140"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "mono-, uni-",
+   "back": "one, single",
+   "note": "e.g. mononeuropathy (disease of a single nerve)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-141"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "multi-",
+   "back": "many",
+   "note": "e.g. multipara (woman who has given birth more than once)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-142"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "neo-",
+   "back": "new",
+   "note": "e.g. neonatal (pertaining to a newborn)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-143"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "nulli-",
+   "back": "none",
+   "note": "e.g. nullipara (woman who has never given birth)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-144"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "olig-, oligo-",
+   "back": "few, scanty",
+   "note": "e.g. oliguria (scanty urine output)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-145"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "pan-",
+   "back": "all, entire",
+   "note": "e.g. pandemic (disease spread over a wide area)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-146"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "para-",
+   "back": "beside, near, abnormal",
+   "note": "e.g. paranasal (beside the nose)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-147"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "per-",
+   "back": "through",
+   "note": "e.g. percutaneous (through the skin)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-148"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "peri-",
+   "back": "around, surrounding",
+   "note": "e.g. pericardium (sac around the heart)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-149"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "poly-",
+   "back": "many, much, excessive",
+   "note": "e.g. polyuria (excessive urination)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-150"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "post-",
+   "back": "after, behind",
+   "note": "e.g. postoperative (after surgery)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-151"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "pre-",
+   "back": "before, in front of",
+   "note": "e.g. prenatal (before birth)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-152"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "primi-",
+   "back": "first",
+   "note": "e.g. primigravida (woman pregnant for the first time)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-153"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "pro-",
+   "back": "before, forward",
+   "note": "e.g. prognosis (prediction of outcome)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-154"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "pseudo-",
+   "back": "false",
+   "note": "e.g. pseudocyst (cyst-like space without a true lining)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-155"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "quadri-, tetra-",
+   "back": "four",
+   "note": "e.g. quadriplegia (paralysis of all four limbs)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-156"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "re-",
+   "back": "again, back",
+   "note": "e.g. relapse (return of disease after improvement)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-157"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "retro-",
+   "back": "backward, behind",
+   "note": "e.g. retroperitoneal (behind the peritoneum)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-158"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "semi-",
+   "back": "half, partly",
+   "note": "e.g. semiconscious (partly conscious)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-159"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "sub-",
+   "back": "under, below",
+   "note": "e.g. subcutaneous (under the skin)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-160"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "super-, supra-",
+   "back": "above, over, excessive",
+   "note": "e.g. suprapubic (above the pubic bone)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-161"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "sym-, syn-",
+   "back": "together, with",
+   "note": "e.g. syndrome (group of symptoms occurring together)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-162"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "tachy-",
+   "back": "fast, rapid",
+   "note": "e.g. tachycardia (fast heart rate)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-163"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "trans-",
+   "back": "across, through",
+   "note": "e.g. transdermal (through the skin)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-164"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "tri-",
+   "back": "three",
+   "note": "e.g. tricuspid (valve with three cusps)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-165"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "ultra-",
+   "back": "beyond, excess",
+   "note": "e.g. ultrasound (sound beyond human hearing used for imaging)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-166"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ac, -al, -ar, -ary",
+   "back": "pertaining to",
+   "note": "e.g. cardiac (pertaining to the heart)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-167"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-eal, -ic, -ous, -tic",
+   "back": "pertaining to",
+   "note": "e.g. esophageal (pertaining to the esophagus)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-168"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-algia, -dynia",
+   "back": "pain",
+   "note": "e.g. arthralgia (joint pain)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-169"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-cele",
+   "back": "hernia, protrusion, swelling",
+   "note": "e.g. rectocele (protrusion of the rectum)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-170"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-centesis",
+   "back": "surgical puncture to remove fluid",
+   "note": "e.g. amniocentesis (removal of amniotic fluid)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-171"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-cyte",
+   "back": "cell",
+   "note": "e.g. leukocyte (white blood cell)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-172"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-desis",
+   "back": "surgical binding, fusion",
+   "note": "e.g. arthrodesis (surgical fusion of a joint)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-173"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ectasis",
+   "back": "dilation, expansion",
+   "note": "e.g. bronchiectasis (dilation of the bronchi)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-174"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ectomy",
+   "back": "surgical removal, excision",
+   "note": "e.g. appendectomy (removal of the appendix)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-175"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-emesis",
+   "back": "vomiting",
+   "note": "e.g. hematemesis (vomiting blood)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-176"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-emia",
+   "back": "blood condition",
+   "note": "e.g. hyperglycemia (high blood sugar)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-177"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-genesis, -genic",
+   "back": "producing, origin, formation",
+   "note": "e.g. carcinogenic (cancer-producing)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-178"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-gram",
+   "back": "record, image",
+   "note": "e.g. electrocardiogram (record of the heart's electrical activity)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-179"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-graph",
+   "back": "instrument for recording",
+   "note": "e.g. electroencephalograph (device that records brain waves)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-180"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-graphy",
+   "back": "process of recording",
+   "note": "e.g. mammography (x-ray imaging of the breast)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-181"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ia, -ism, -osis",
+   "back": "condition (-osis often abnormal)",
+   "note": "e.g. cyanosis (bluish discoloration)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-182"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-iasis",
+   "back": "abnormal condition, formation of",
+   "note": "e.g. cholelithiasis (gallstones)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-183"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-iatry, -iatrics",
+   "back": "medical treatment, field of medicine",
+   "note": "e.g. pediatrics (medicine for children)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-184"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ist",
+   "back": "specialist",
+   "note": "e.g. dermatologist (skin specialist)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-185"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-itis",
+   "back": "inflammation",
+   "note": "e.g. tonsillitis (inflammation of the tonsils)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-186"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-logy, -logist",
+   "back": "study of / specialist in the study of",
+   "note": "e.g. cardiology (study of the heart)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-187"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-lysis",
+   "back": "breakdown, destruction, separation",
+   "note": "e.g. hemolysis (breakdown of red blood cells)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-188"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-malacia",
+   "back": "softening",
+   "note": "e.g. osteomalacia (softening of bone)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-189"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-megaly",
+   "back": "enlargement",
+   "note": "e.g. hepatomegaly (enlarged liver)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-190"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-meter",
+   "back": "instrument for measuring",
+   "note": "e.g. thermometer (instrument to measure temperature)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-191"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-metry",
+   "back": "process of measuring",
+   "note": "e.g. spirometry (measuring breathing volumes)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-192"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-oid",
+   "back": "resembling",
+   "note": "e.g. lipoid (resembling fat)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-193"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-oma",
+   "back": "tumor, mass",
+   "note": "e.g. lipoma (benign fatty tumor)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-194"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-opsy",
+   "back": "to view",
+   "note": "e.g. biopsy (removing tissue to examine it)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-195"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-pathy",
+   "back": "disease",
+   "note": "e.g. neuropathy (disease of the nerves)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-196"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-penia",
+   "back": "deficiency, decrease",
+   "note": "e.g. leukopenia (low white blood cell count)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-197"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-pexy",
+   "back": "surgical fixation",
+   "note": "e.g. nephropexy (surgical fixation of a floating kidney)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-198"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-phagia",
+   "back": "eating, swallowing",
+   "note": "e.g. dysphagia (difficulty swallowing)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-199"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-phasia",
+   "back": "speech",
+   "note": "e.g. aphasia (loss of ability to use or understand language)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-200"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-philia",
+   "back": "attraction, increase in",
+   "note": "e.g. hemophilia (inherited bleeding disorder; literally 'blood-loving')",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-201"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-phobia",
+   "back": "fear",
+   "note": "e.g. photophobia (sensitivity to light)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-202"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-plasia",
+   "back": "formation, development",
+   "note": "e.g. hyperplasia (increase in number of cells)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-203"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-plasty",
+   "back": "surgical repair",
+   "note": "e.g. rhinoplasty (surgical repair of the nose)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-204"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-plegia",
+   "back": "paralysis",
+   "note": "e.g. paraplegia (paralysis of the lower body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-205"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-pnea",
+   "back": "breathing",
+   "note": "e.g. apnea (temporary stop in breathing)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-206"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-poiesis",
+   "back": "formation, production",
+   "note": "e.g. hematopoiesis (formation of blood cells)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-207"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ptosis",
+   "back": "drooping, falling",
+   "note": "e.g. blepharoptosis (drooping eyelid)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-208"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-rrhage, -rrhagia",
+   "back": "bursting forth of blood, heavy bleeding",
+   "note": "e.g. hemorrhage (heavy bleeding)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-209"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-rrhaphy",
+   "back": "suture",
+   "note": "e.g. herniorrhaphy (suture repair of a hernia)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-210"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-rrhea",
+   "back": "flow, discharge",
+   "note": "e.g. rhinorrhea (runny nose)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-211"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-rrhexis",
+   "back": "rupture",
+   "note": "e.g. hysterorrhexis (rupture of the uterus)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-212"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-sclerosis",
+   "back": "hardening",
+   "note": "e.g. arteriosclerosis (hardening of the arteries)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-213"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-scope",
+   "back": "instrument for viewing",
+   "note": "e.g. otoscope (instrument for viewing the ear)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-214"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-scopy",
+   "back": "visual examination",
+   "note": "e.g. colonoscopy (visual exam of the colon)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-215"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-spasm",
+   "back": "sudden involuntary contraction",
+   "note": "e.g. bronchospasm (tightening of airway muscles)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-216"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-stasis",
+   "back": "stopping, controlling, standing still",
+   "note": "e.g. hemostasis (stopping of bleeding)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-217"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-stenosis",
+   "back": "narrowing",
+   "note": "e.g. aortic stenosis (narrowing of the aortic valve)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-218"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-stomy",
+   "back": "surgical creation of an opening",
+   "note": "e.g. colostomy (opening from colon to body surface)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-219"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-therapy",
+   "back": "treatment",
+   "note": "e.g. chemotherapy (treatment with drugs)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-220"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-tomy",
+   "back": "cutting into, incision",
+   "note": "e.g. tracheotomy (incision into the trachea)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-221"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-tripsy",
+   "back": "crushing",
+   "note": "e.g. lithotripsy (crushing of stones)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-222"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-trophy",
+   "back": "development, nourishment",
+   "note": "e.g. atrophy (wasting away of tissue)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-223"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-uria",
+   "back": "urine condition",
+   "note": "e.g. hematuria (blood in the urine) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-224"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "bio/o",
+   "back": "life",
+   "note": "e.g. biology (study of life)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-225"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "carcin/o",
+   "back": "cancer",
+   "note": "e.g. carcinoma (cancer of epithelial tissue)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-226"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cyt/o",
+   "back": "cell",
+   "note": "e.g. cytology (study of cells)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-227"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hist/o",
+   "back": "tissue",
+   "note": "e.g. histology (study of tissues)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-228"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "path/o",
+   "back": "disease",
+   "note": "e.g. pathologist (specialist in disease)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-229"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pharmac/o",
+   "back": "drug, medicine",
+   "note": "e.g. pharmacology (study of drugs) · Pharmacology",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-230"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "tox/o, toxic/o",
+   "back": "poison",
+   "note": "e.g. toxicology (study of poisons) · Pharmacology",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-231"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "chem/o",
+   "back": "chemical, drug",
+   "note": "e.g. chemotherapy (drug treatment) · Pharmacology",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-232"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "onc/o",
+   "back": "tumor",
+   "note": "e.g. oncology (study of tumors/cancer)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-233"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "necr/o",
+   "back": "death",
+   "note": "e.g. necrosis (tissue death)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-234"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "py/o",
+   "back": "pus",
+   "note": "e.g. pyogenic (pus-producing)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-235"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pyr/o, febr/i",
+   "back": "fever, heat",
+   "note": "e.g. antipyretic (fever reducer)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-236"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "therm/o",
+   "back": "heat",
+   "note": "e.g. hypothermia (low body temperature)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-237"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cry/o",
+   "back": "cold",
+   "note": "e.g. cryotherapy (treatment with cold)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-238"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lip/o, adip/o",
+   "back": "fat",
+   "note": "e.g. liposuction (fat removal by suction)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-239"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lith/o",
+   "back": "stone",
+   "note": "e.g. nephrolithiasis (kidney stones)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-240"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "fibr/o",
+   "back": "fiber",
+   "note": "e.g. fibroma (tumor of fibrous tissue)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-241"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sarc/o",
+   "back": "flesh, connective tissue",
+   "note": "e.g. sarcoma (malignant connective tissue tumor)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-242"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "somat/o",
+   "back": "body",
+   "note": "e.g. somatic (pertaining to the body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-243"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "viscer/o",
+   "back": "internal organs",
+   "note": "e.g. visceral (pertaining to internal organs)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-244"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "erythr/o",
+   "back": "red",
+   "note": "e.g. erythrocyte (red blood cell) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-245"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "leuk/o",
+   "back": "white",
+   "note": "e.g. leukemia (cancer of white blood cells) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-246"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "melan/o",
+   "back": "black, dark",
+   "note": "e.g. melanoma (cancer of pigment cells) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-247"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cyan/o",
+   "back": "blue",
+   "note": "e.g. cyanosis (bluish skin from low oxygen) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-248"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "xanth/o",
+   "back": "yellow",
+   "note": "e.g. xanthoma (yellowish fatty skin deposit) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-249"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "chlor/o",
+   "back": "green",
+   "note": "e.g. chlorophyll (green plant pigment) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-250"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "icter/o",
+   "back": "yellow",
+   "note": "e.g. icteric (jaundiced, yellow) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-251"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "poli/o",
+   "back": "gray (matter)",
+   "note": "e.g. poliomyelitis (inflammation of gray matter of spinal cord) · Colors",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-252"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cardi/o",
+   "back": "heart",
+   "note": "e.g. cardiomyopathy (disease of heart muscle) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-253"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "angi/o, vas/o",
+   "back": "vessel",
+   "note": "e.g. angioplasty (repair of a vessel) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-254"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "arteri/o",
+   "back": "artery",
+   "note": "e.g. arteriosclerosis (hardening of arteries) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-255"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "aort/o",
+   "back": "aorta",
+   "note": "e.g. aortic (pertaining to the aorta) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-256"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ather/o",
+   "back": "fatty plaque, paste",
+   "note": "e.g. atherosclerosis (plaque buildup in arteries) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-257"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "atri/o",
+   "back": "atrium (upper heart chamber)",
+   "note": "e.g. atrial fibrillation (irregular atrial rhythm) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-258"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ventricul/o",
+   "back": "ventricle (lower heart chamber; also brain cavity)",
+   "note": "e.g. ventricular (pertaining to a ventricle) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-259"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "valv/o, valvul/o",
+   "back": "valve",
+   "note": "e.g. valvuloplasty (valve repair) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-260"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "phleb/o, ven/o",
+   "back": "vein",
+   "note": "e.g. phlebotomy (incision into a vein to draw blood) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-261"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thromb/o",
+   "back": "clot",
+   "note": "e.g. thrombosis (formation of a blood clot) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-262"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "embol/o",
+   "back": "plug, something thrown in",
+   "note": "e.g. embolism (blockage by a traveling clot or mass) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-263"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sphygm/o",
+   "back": "pulse",
+   "note": "e.g. sphygmomanometer (blood pressure cuff) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-264"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "steth/o, pector/o",
+   "back": "chest",
+   "note": "e.g. stethoscope (instrument to listen to the chest) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-265"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "coron/o",
+   "back": "heart, crown",
+   "note": "e.g. coronary arteries (arteries supplying the heart) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-266"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "isch/o",
+   "back": "to hold back",
+   "note": "e.g. ischemia (reduced blood supply) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-267"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "varic/o",
+   "back": "swollen, twisted vein",
+   "note": "e.g. varicose veins (swollen, twisted veins) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-268"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "myocardi/o",
+   "back": "heart muscle",
+   "note": "e.g. myocardial infarction (heart attack) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-269"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pericardi/o",
+   "back": "pericardium",
+   "note": "e.g. pericarditis (inflammation of the sac around the heart) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-270"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "endocardi/o",
+   "back": "inner lining of the heart",
+   "note": "e.g. endocarditis (inflammation of heart lining) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-271"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "electr/o",
+   "back": "electricity",
+   "note": "e.g. electrocardiogram (ECG/EKG) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-272"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hemangi/o",
+   "back": "blood vessel",
+   "note": "e.g. hemangioma (benign blood-vessel tumor) · Cardiovascular",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-273"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pneum/o, pneumon/o",
+   "back": "lung, air",
+   "note": "e.g. pneumonia (lung infection) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-274"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pulmon/o",
+   "back": "lung",
+   "note": "e.g. pulmonologist (lung specialist) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-275"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "bronch/o, bronchi/o",
+   "back": "bronchus (airway)",
+   "note": "e.g. bronchitis (inflammation of the bronchi) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-276"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "bronchiol/o",
+   "back": "bronchiole (small airway)",
+   "note": "e.g. bronchiolitis (inflammation of small airways) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-277"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "trache/o",
+   "back": "trachea, windpipe",
+   "note": "e.g. tracheostomy (opening into the trachea) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-278"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "laryng/o",
+   "back": "larynx, voice box",
+   "note": "e.g. laryngitis (inflammation of the voice box) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-279"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pharyng/o",
+   "back": "pharynx, throat",
+   "note": "e.g. pharyngitis (sore throat) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-280"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "rhin/o, nas/o",
+   "back": "nose",
+   "note": "e.g. rhinitis (inflammation of nasal lining) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-281"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sinus/o",
+   "back": "sinus, cavity",
+   "note": "e.g. sinusitis (inflammation of the sinuses) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-282"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pleur/o",
+   "back": "pleura (lung membrane)",
+   "note": "e.g. pleurisy (inflammation of the pleura) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-283"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thorac/o",
+   "back": "chest",
+   "note": "e.g. thoracotomy (incision into the chest) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-284"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "spir/o",
+   "back": "breathing",
+   "note": "e.g. spirometer (device to measure breathing) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-285"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ox/o, ox/i",
+   "back": "oxygen",
+   "note": "e.g. hypoxia (low oxygen in tissues) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-286"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "capn/o",
+   "back": "carbon dioxide",
+   "note": "e.g. hypercapnia (excess CO2 in the blood) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-287"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "phren/o",
+   "back": "diaphragm (also mind)",
+   "note": "e.g. phrenic nerve (nerve to the diaphragm) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-288"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "alveol/o",
+   "back": "alveolus (air sac)",
+   "note": "e.g. alveolar (pertaining to air sacs) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-289"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lob/o",
+   "back": "lobe",
+   "note": "e.g. lobectomy (removal of a lobe) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-290"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "epiglott/o",
+   "back": "epiglottis",
+   "note": "e.g. epiglottitis (inflammation of the epiglottis) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-291"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "tonsill/o",
+   "back": "tonsil",
+   "note": "e.g. tonsillectomy (removal of the tonsils) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-292"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "adenoid/o",
+   "back": "adenoids",
+   "note": "e.g. adenoidectomy (removal of the adenoids) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-293"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "orth/o",
+   "back": "straight, upright",
+   "note": "e.g. orthopnea (difficulty breathing unless upright) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-294"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-ptysis",
+   "back": "spitting",
+   "note": "e.g. hemoptysis (coughing up blood) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-295"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-thorax",
+   "back": "chest, pleural cavity",
+   "note": "e.g. pneumothorax (air in the pleural cavity) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-296"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-capnia",
+   "back": "carbon dioxide level",
+   "note": "e.g. hypocapnia (low CO2) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-297"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-oxia",
+   "back": "oxygen level",
+   "note": "e.g. anoxia (absence of oxygen) · Respiratory",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-298"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gastr/o",
+   "back": "stomach",
+   "note": "e.g. gastritis (inflammation of the stomach) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-299"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "esophag/o",
+   "back": "esophagus",
+   "note": "e.g. esophagitis (inflammation of the esophagus) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-300"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "enter/o",
+   "back": "intestine (usually small)",
+   "note": "e.g. gastroenteritis (stomach and intestinal inflammation) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-301"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "duoden/o",
+   "back": "duodenum",
+   "note": "e.g. duodenal ulcer (ulcer of the duodenum) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-302"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "jejun/o",
+   "back": "jejunum",
+   "note": "e.g. jejunostomy (opening into the jejunum) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-303"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ile/o",
+   "back": "ileum",
+   "note": "e.g. ileostomy (opening from the ileum to the surface) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-304"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "col/o, colon/o",
+   "back": "colon, large intestine",
+   "note": "e.g. colitis (inflammation of the colon) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-305"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sigmoid/o",
+   "back": "sigmoid colon",
+   "note": "e.g. sigmoidoscopy (visual exam of the sigmoid colon) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-306"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "rect/o",
+   "back": "rectum",
+   "note": "e.g. rectal (pertaining to the rectum) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-307"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "proct/o",
+   "back": "anus and rectum",
+   "note": "e.g. proctologist (specialist in anus/rectum) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-308"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "an/o",
+   "back": "anus",
+   "note": "e.g. anal fissure (tear in the anal lining) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-309"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "append/o, appendic/o",
+   "back": "appendix",
+   "note": "e.g. appendicitis (inflamed appendix) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-310"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hepat/o",
+   "back": "liver",
+   "note": "e.g. hepatitis (inflammation of the liver) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-311"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "chol/e",
+   "back": "bile, gall",
+   "note": "e.g. cholecystectomy (gallbladder removal) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-312"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cholecyst/o",
+   "back": "gallbladder",
+   "note": "e.g. cholecystitis (inflammation of the gallbladder) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-313"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "choledoch/o",
+   "back": "common bile duct",
+   "note": "e.g. choledocholithiasis (stone in the common bile duct) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-314"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pancreat/o",
+   "back": "pancreas",
+   "note": "e.g. pancreatitis (inflammation of the pancreas) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-315"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "or/o, stomat/o",
+   "back": "mouth",
+   "note": "e.g. stomatitis (inflammation of the mouth) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-316"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gloss/o, lingu/o",
+   "back": "tongue",
+   "note": "e.g. sublingual (under the tongue) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-317"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "dent/i, odont/o",
+   "back": "tooth",
+   "note": "e.g. orthodontist (specialist in straightening teeth) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-318"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gingiv/o",
+   "back": "gums",
+   "note": "e.g. gingivitis (inflammation of the gums) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-319"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cheil/o, labi/o",
+   "back": "lip",
+   "note": "e.g. cheilitis (inflammation of the lips) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-320"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sial/o",
+   "back": "saliva, salivary gland",
+   "note": "e.g. sialadenitis (salivary gland inflammation) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-321"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "bucc/o",
+   "back": "cheek",
+   "note": "e.g. buccal (pertaining to the cheek) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-322"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lapar/o, abdomin/o",
+   "back": "abdomen",
+   "note": "e.g. laparoscopy (viewing inside the abdomen) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-323"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "peritone/o",
+   "back": "peritoneum",
+   "note": "e.g. peritonitis (inflammation of the peritoneum) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-324"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "herni/o",
+   "back": "hernia",
+   "note": "e.g. herniorrhaphy (hernia repair) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-325"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-pepsia",
+   "back": "digestion",
+   "note": "e.g. dyspepsia (indigestion) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-326"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-chezia",
+   "back": "defecation, elimination of waste",
+   "note": "e.g. hematochezia (bright red blood in stool) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-327"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "emet/o",
+   "back": "vomit",
+   "note": "e.g. antiemetic (drug that prevents vomiting) · Digestive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-328"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "nephr/o, ren/o",
+   "back": "kidney",
+   "note": "e.g. nephritis (inflammation of the kidney) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-329"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pyel/o",
+   "back": "renal pelvis",
+   "note": "e.g. pyelonephritis (infection of kidney and renal pelvis) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-330"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "glomerul/o",
+   "back": "glomerulus",
+   "note": "e.g. glomerulonephritis (inflammation of kidney filters) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-331"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ureter/o",
+   "back": "ureter",
+   "note": "e.g. ureteral (pertaining to the ureter) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-332"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cyst/o, vesic/o",
+   "back": "urinary bladder; sac",
+   "note": "e.g. cystitis (bladder inflammation) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-333"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "urethr/o",
+   "back": "urethra",
+   "note": "e.g. urethritis (inflammation of the urethra) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-334"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ur/o, urin/o",
+   "back": "urine, urinary tract",
+   "note": "e.g. urology (study of the urinary tract) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-335"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "albumin/o",
+   "back": "albumin (a protein)",
+   "note": "e.g. albuminuria (albumin in the urine) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-336"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "glycos/o",
+   "back": "sugar, glucose",
+   "note": "e.g. glycosuria (glucose in the urine) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-337"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "noct/i",
+   "back": "night",
+   "note": "e.g. nocturia (urinating at night) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-338"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-uresis",
+   "back": "urination",
+   "note": "e.g. diuresis (increased urine production) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-339"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "meat/o",
+   "back": "meatus (opening)",
+   "note": "e.g. meatotomy (incision to widen an opening) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-340"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "dips/o",
+   "back": "thirst",
+   "note": "e.g. polydipsia (excessive thirst) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-341"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "azot/o",
+   "back": "nitrogen, urea",
+   "note": "e.g. azotemia (excess nitrogen waste in blood) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-342"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hydr/o",
+   "back": "water, fluid",
+   "note": "e.g. hydronephrosis (kidney swelling from trapped urine) · Urinary",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-343"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hyster/o, uter/o, metr/o",
+   "back": "uterus",
+   "note": "e.g. hysterectomy (removal of the uterus) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-344"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "oophor/o, ovari/o",
+   "back": "ovary",
+   "note": "e.g. oophorectomy (removal of an ovary) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-345"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "salping/o",
+   "back": "fallopian (uterine) tube; also eustachian tube",
+   "note": "e.g. salpingitis (inflammation of a fallopian tube) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-346"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "colp/o, vagin/o",
+   "back": "vagina",
+   "note": "e.g. colposcopy (visual exam of the vagina and cervix) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-347"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cervic/o",
+   "back": "cervix; neck",
+   "note": "e.g. cervicitis (inflammation of the cervix) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-348"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "mamm/o, mast/o",
+   "back": "breast",
+   "note": "e.g. mastectomy (removal of a breast) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-349"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "men/o",
+   "back": "menstruation, month",
+   "note": "e.g. amenorrhea (absence of menstruation) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-350"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gynec/o",
+   "back": "woman, female",
+   "note": "e.g. gynecology (study of female reproductive health) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-351"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "obstetr/o",
+   "back": "midwife, pregnancy and childbirth",
+   "note": "e.g. obstetrician (pregnancy and delivery specialist) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-352"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gravid/o, -gravida",
+   "back": "pregnancy / pregnant woman",
+   "note": "e.g. gravida 2 (pregnant two times) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-353"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-para, -parous",
+   "back": "to bear, give birth",
+   "note": "e.g. primipara (woman who has given birth once) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-354"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "nat/o",
+   "back": "birth",
+   "note": "e.g. postnatal (after birth) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-355"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-cyesis",
+   "back": "pregnancy",
+   "note": "e.g. pseudocyesis (false pregnancy) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-356"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-tocia",
+   "back": "labor, birth",
+   "note": "e.g. dystocia (difficult labor) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-357"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "amni/o",
+   "back": "amnion (fetal sac)",
+   "note": "e.g. amniocentesis (sampling amniotic fluid) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-358"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "episi/o, vulv/o",
+   "back": "vulva",
+   "note": "e.g. episiotomy (incision of the perineum during birth) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-359"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "orchi/o, orchid/o, test/o",
+   "back": "testis",
+   "note": "e.g. orchitis (inflammation of a testis) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-360"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "prostat/o",
+   "back": "prostate gland",
+   "note": "e.g. prostatitis (inflammation of the prostate) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-361"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "vas/o (reproductive)",
+   "back": "vas deferens; also vessel",
+   "note": "e.g. vasectomy (cutting the vas deferens) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-362"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sperm/o, spermat/o",
+   "back": "sperm",
+   "note": "e.g. spermatogenesis (sperm production) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-363"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "andr/o",
+   "back": "male",
+   "note": "e.g. androgen (male hormone) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-364"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "balan/o",
+   "back": "glans penis",
+   "note": "e.g. balanitis (inflammation of the glans penis) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-365"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "crypt/o",
+   "back": "hidden",
+   "note": "e.g. cryptorchidism (undescended testis) · Reproductive",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-366"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "oste/o",
+   "back": "bone",
+   "note": "e.g. osteoporosis (porous, weak bones) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-367"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "arthr/o",
+   "back": "joint",
+   "note": "e.g. arthritis (joint inflammation) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-368"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "chondr/o",
+   "back": "cartilage",
+   "note": "e.g. chondromalacia (softening of cartilage) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-369"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "my/o, muscul/o",
+   "back": "muscle",
+   "note": "e.g. myalgia (muscle pain) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-370"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ten/o, tendin/o",
+   "back": "tendon",
+   "note": "e.g. tendinitis (inflammation of a tendon) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-371"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ligament/o",
+   "back": "ligament",
+   "note": "e.g. ligamentous (pertaining to a ligament) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-372"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "burs/o",
+   "back": "bursa (fluid sac)",
+   "note": "e.g. bursitis (inflammation of a bursa) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-373"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "synov/o",
+   "back": "synovial membrane/fluid",
+   "note": "e.g. synovitis (inflammation of the joint lining) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-374"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "myel/o",
+   "back": "bone marrow; spinal cord",
+   "note": "e.g. osteomyelitis (bone and marrow infection) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-375"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "crani/o",
+   "back": "skull",
+   "note": "e.g. craniotomy (incision into the skull) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-376"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cost/o",
+   "back": "rib",
+   "note": "e.g. costochondral (rib and cartilage) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-377"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "stern/o",
+   "back": "sternum, breastbone",
+   "note": "e.g. sternal (pertaining to the sternum) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-378"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "vertebr/o, spondyl/o",
+   "back": "vertebra",
+   "note": "e.g. spondylosis (degeneration of the spine) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-379"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lumb/o",
+   "back": "lower back, loin",
+   "note": "e.g. lumbar (pertaining to the lower back) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-380"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cervic/o (spine)",
+   "back": "neck",
+   "note": "e.g. cervical vertebrae (neck bones) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-381"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thorac/o (spine)",
+   "back": "chest",
+   "note": "e.g. thoracic vertebrae (chest-level spine) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-382"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sacr/o",
+   "back": "sacrum",
+   "note": "e.g. sacroiliac (sacrum and ilium joint) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-383"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pelv/i",
+   "back": "pelvis, hip bone",
+   "note": "e.g. pelvimetry (measuring the pelvis) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-384"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ili/o",
+   "back": "ilium (upper hip bone)",
+   "note": "e.g. iliac crest (top edge of the hip bone) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-385"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "patell/o",
+   "back": "patella, kneecap",
+   "note": "e.g. patellar reflex (knee-jerk) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-386"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "tibi/o",
+   "back": "tibia, shin bone",
+   "note": "e.g. tibial (pertaining to the tibia) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-387"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "fibul/o",
+   "back": "fibula",
+   "note": "e.g. fibular fracture (break of the fibula) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-388"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "humer/o",
+   "back": "humerus, upper arm bone",
+   "note": "e.g. humeral (pertaining to the humerus) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-389"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "radi/o",
+   "back": "radius (forearm bone); also x-rays",
+   "note": "e.g. radiography (x-ray imaging) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-390"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "uln/o",
+   "back": "ulna (forearm bone)",
+   "note": "e.g. ulnar nerve ('funny bone' nerve) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-391"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "carp/o",
+   "back": "carpals, wrist bones",
+   "note": "e.g. carpal tunnel syndrome (nerve compression at wrist) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-392"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "dactyl/o",
+   "back": "finger, toe",
+   "note": "e.g. syndactyly (webbed fingers or toes) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-393"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pod/o, ped/o",
+   "back": "foot",
+   "note": "e.g. podiatrist (foot specialist) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-394"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "kyph/o",
+   "back": "hump",
+   "note": "e.g. kyphosis (rounded upper back) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-395"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lord/o",
+   "back": "curve, swayback",
+   "note": "e.g. lordosis (exaggerated lower back curve) · Musculoskeletal",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-flip-396"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “a-, an-” mean?",
+   "choices": [
+    "record, image",
+    "ileum",
+    "without, not, lacking",
+    "to hold back"
+   ],
+   "answer": 2,
+   "explain": "a-, an- = without, not, lacking. Example: anemia (lack of normal blood/red cells)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-001"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “ana-” mean?",
+   "choices": [
+    "up, apart, again",
+    "below, beneath",
+    "alveolus (air sac)",
+    "curve, swayback"
+   ],
+   "answer": 0,
+   "explain": "ana- = up, apart, again. Example: anatomy (cutting apart; study of body structure)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-002"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “bi-” mean?",
+   "choices": [
+    "large, enlarged",
+    "two, twice",
+    "peritoneum",
+    "mouth"
+   ],
+   "answer": 1,
+   "explain": "bi- = two, twice. Example: bilateral (on both sides)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-003"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “contra-” mean?",
+   "choices": [
+    "against, opposite",
+    "between",
+    "three",
+    "fibula"
+   ],
+   "answer": 0,
+   "explain": "contra- = against, opposite. Example: contraindication (reason not to use a treatment)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-004"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “dis-” mean?",
+   "choices": [
+    "crooked, bent",
+    "colon, large intestine",
+    "apart, separation",
+    "finger, toe"
+   ],
+   "answer": 2,
+   "explain": "dis- = apart, separation. Example: dislocation (displacement of a bone from a joint)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-005"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “epi-” mean?",
+   "choices": [
+    "hernia, protrusion, swelling",
+    "green",
+    "ilium (upper hip bone)",
+    "upon, above, over"
+   ],
+   "answer": 3,
+   "explain": "epi- = upon, above, over. Example: epidermis (outer layer upon the dermis)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-006"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “hemi-” mean?",
+   "choices": [
+    "half",
+    "femur, thigh bone",
+    "ulna (forearm bone)",
+    "ventricle (lower heart chamber; also brain cavity)"
+   ],
+   "answer": 0,
+   "explain": "hemi- = half. Example: hemiplegia (paralysis of one side of the body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-007"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “hypo-” mean?",
+   "choices": [
+    "after, behind",
+    "below, under, deficient",
+    "neck",
+    "tonsil"
+   ],
+   "answer": 1,
+   "explain": "hypo- = below, under, deficient. Example: hypoglycemia (low blood sugar)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-008"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “intra-” mean?",
+   "choices": [
+    "mind",
+    "birth",
+    "formation, production",
+    "within, inside"
+   ],
+   "answer": 3,
+   "explain": "intra- = within, inside. Example: intravenous (within a vein)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-009"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “mega-, megalo-” mean?",
+   "choices": [
+    "urinary bladder; sac",
+    "large, enlarged",
+    "crooked, bent",
+    "carbon dioxide"
+   ],
+   "answer": 1,
+   "explain": "mega-, megalo- = large, enlarged. Example: megacolon (abnormally enlarged colon)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-010"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “mono-, uni-” mean?",
+   "choices": [
+    "extremities, height",
+    "cancer",
+    "one, single",
+    "new"
+   ],
+   "answer": 2,
+   "explain": "mono-, uni- = one, single. Example: mononeuropathy (disease of a single nerve)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-011"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “olig-, oligo-” mean?",
+   "choices": [
+    "increase in cells (abnormal)",
+    "bronchiole (small airway)",
+    "few, scanty",
+    "renal pelvis"
+   ],
+   "answer": 2,
+   "explain": "olig-, oligo- = few, scanty. Example: oliguria (scanty urine output)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-012"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “peri-” mean?",
+   "choices": [
+    "mouth",
+    "together, with",
+    "around, surrounding",
+    "sperm"
+   ],
+   "answer": 2,
+   "explain": "peri- = around, surrounding. Example: pericardium (sac around the heart)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-013"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “primi-” mean?",
+   "choices": [
+    "first",
+    "tongue",
+    "upon, above, over",
+    "woman, female"
+   ],
+   "answer": 0,
+   "explain": "primi- = first. Example: primigravida (woman pregnant for the first time)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-014"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “re-” mean?",
+   "choices": [
+    "bronchus (airway)",
+    "potassium",
+    "nose",
+    "again, back"
+   ],
+   "answer": 3,
+   "explain": "re- = again, back. Example: relapse (return of disease after improvement)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-015"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “super-, supra-” mean?",
+   "choices": [
+    "through",
+    "bad, poor",
+    "stone",
+    "above, over, excessive"
+   ],
+   "answer": 3,
+   "explain": "super-, supra- = above, over, excessive. Example: suprapubic (above the pubic bone)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-016"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “tri-” mean?",
+   "choices": [
+    "between",
+    "removal, separation",
+    "three",
+    "to separate"
+   ],
+   "answer": 2,
+   "explain": "tri- = three. Example: tricuspid (valve with three cusps)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-017"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-algia, -dynia” mean?",
+   "choices": [
+    "pain",
+    "eat, swallow",
+    "black, dark",
+    "stomach"
+   ],
+   "answer": 0,
+   "explain": "-algia, -dynia = pain. Example: arthralgia (joint pain)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-018"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-desis” mean?",
+   "choices": [
+    "spinal cord",
+    "surgical binding, fusion",
+    "breakdown, destruction, separation",
+    "pleura (lung membrane)"
+   ],
+   "answer": 1,
+   "explain": "-desis = surgical binding, fusion. Example: arthrodesis (surgical fusion of a joint)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-019"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-emia” mean?",
+   "choices": [
+    "blood condition",
+    "hardening",
+    "yellow",
+    "hearing condition"
+   ],
+   "answer": 0,
+   "explain": "-emia = blood condition. Example: hyperglycemia (high blood sugar)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-020"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-graphy” mean?",
+   "choices": [
+    "birth",
+    "duodenum",
+    "process of recording",
+    "colon, large intestine"
+   ],
+   "answer": 2,
+   "explain": "-graphy = process of recording. Example: mammography (x-ray imaging of the breast)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-021"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-ist” mean?",
+   "choices": [
+    "rectum",
+    "internal organs",
+    "specialist",
+    "chest"
+   ],
+   "answer": 2,
+   "explain": "-ist = specialist. Example: dermatologist (skin specialist)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-022"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-malacia” mean?",
+   "choices": [
+    "common bile duct",
+    "breathing",
+    "lymph",
+    "softening"
+   ],
+   "answer": 3,
+   "explain": "-malacia = softening. Example: osteomalacia (softening of bone)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-023"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-oid” mean?",
+   "choices": [
+    "resembling",
+    "new",
+    "producing, origin, formation",
+    "instrument for measuring"
+   ],
+   "answer": 0,
+   "explain": "-oid = resembling. Example: lipoid (resembling fat)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-024"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-penia” mean?",
+   "choices": [
+    "against",
+    "weakness",
+    "deficiency, decrease",
+    "breast"
+   ],
+   "answer": 2,
+   "explain": "-penia = deficiency, decrease. Example: leukopenia (low white blood cell count)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-025"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-philia” mean?",
+   "choices": [
+    "toward, near",
+    "surgical removal, excision",
+    "attraction, increase in",
+    "mouth"
+   ],
+   "answer": 2,
+   "explain": "-philia = attraction, increase in. Example: hemophilia (inherited bleeding disorder; literally 'blood-loving')",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-026"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-plegia” mean?",
+   "choices": [
+    "paralysis",
+    "male",
+    "cortex, outer layer",
+    "three"
+   ],
+   "answer": 0,
+   "explain": "-plegia = paralysis. Example: paraplegia (paralysis of the lower body)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-027"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-rrhage, -rrhagia” mean?",
+   "choices": [
+    "bursting forth of blood, heavy bleeding",
+    "jejunum",
+    "sigmoid colon",
+    "colon, large intestine"
+   ],
+   "answer": 0,
+   "explain": "-rrhage, -rrhagia = bursting forth of blood, heavy bleeding. Example: hemorrhage (heavy bleeding)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-028"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-sclerosis” mean?",
+   "choices": [
+    "large",
+    "between",
+    "hardening",
+    "surgical fixation"
+   ],
+   "answer": 2,
+   "explain": "-sclerosis = hardening. Example: arteriosclerosis (hardening of the arteries)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-029"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-stasis” mean?",
+   "choices": [
+    "bronchus (airway)",
+    "nerve",
+    "stopping, controlling, standing still",
+    "again, back"
+   ],
+   "answer": 2,
+   "explain": "-stasis = stopping, controlling, standing still. Example: hemostasis (stopping of bleeding)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-030"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-tomy” mean?",
+   "choices": [
+    "bone marrow; spinal cord",
+    "cutting into, incision",
+    "producing, origin, formation",
+    "humerus, upper arm bone"
+   ],
+   "answer": 1,
+   "explain": "-tomy = cutting into, incision. Example: tracheotomy (incision into the trachea)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-031"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “bio/o” mean?",
+   "choices": [
+    "head",
+    "formation, production",
+    "large, enlarged",
+    "life"
+   ],
+   "answer": 3,
+   "explain": "bio/o = life. Example: biology (study of life)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-032"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “path/o” mean?",
+   "choices": [
+    "cerebrum, brain",
+    "alveolus (air sac)",
+    "pharynx, throat",
+    "disease"
+   ],
+   "answer": 3,
+   "explain": "path/o = disease. Example: pathologist (specialist in disease)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-033"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “onc/o” mean?",
+   "choices": [
+    "fallopian (uterine) tube; also eustachian tube",
+    "menstruation, month",
+    "urination",
+    "tumor"
+   ],
+   "answer": 3,
+   "explain": "onc/o = tumor. Example: oncology (study of tumors/cancer)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-034"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “therm/o” mean?",
+   "choices": [
+    "dilation, expansion",
+    "first",
+    "heat",
+    "pupil"
+   ],
+   "answer": 2,
+   "explain": "therm/o = heat. Example: hypothermia (low body temperature)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-035"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “fibr/o” mean?",
+   "choices": [
+    "abnormal condition, formation of",
+    "calcium",
+    "fiber",
+    "fallopian (uterine) tube; also eustachian tube"
+   ],
+   "answer": 2,
+   "explain": "fibr/o = fiber. Example: fibroma (tumor of fibrous tissue)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-036"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “erythr/o” mean?",
+   "choices": [
+    "red",
+    "cortex, outer layer",
+    "vertebra",
+    "vomiting"
+   ],
+   "answer": 0,
+   "explain": "erythr/o = red. Example: erythrocyte (red blood cell)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-037"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “xanth/o” mean?",
+   "choices": [
+    "hard, horny tissue; cornea",
+    "beside, near, abnormal",
+    "yellow",
+    "extremities, height"
+   ],
+   "answer": 2,
+   "explain": "xanth/o = yellow. Example: xanthoma (yellowish fatty skin deposit)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-038"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “cardi/o” mean?",
+   "choices": [
+    "chest",
+    "inflammation",
+    "heart",
+    "visual examination"
+   ],
+   "answer": 2,
+   "explain": "cardi/o = heart. Example: cardiomyopathy (disease of heart muscle)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-039"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “ather/o” mean?",
+   "choices": [
+    "speech",
+    "glue; glial (supporting) cells",
+    "fatty plaque, paste",
+    "tension, pressure"
+   ],
+   "answer": 2,
+   "explain": "ather/o = fatty plaque, paste. Example: atherosclerosis (plaque buildup in arteries)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-040"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “phleb/o, ven/o” mean?",
+   "choices": [
+    "hidden",
+    "formation, development",
+    "vein",
+    "pregnancy / pregnant woman"
+   ],
+   "answer": 2,
+   "explain": "phleb/o, ven/o = vein. Example: phlebotomy (incision into a vein to draw blood)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-041"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “steth/o, pector/o” mean?",
+   "choices": [
+    "chest",
+    "internal organs",
+    "two, double",
+    "water, fluid"
+   ],
+   "answer": 0,
+   "explain": "steth/o, pector/o = chest. Example: stethoscope (instrument to listen to the chest)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-042"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “myocardi/o” mean?",
+   "choices": [
+    "platelet",
+    "heart muscle",
+    "kidney",
+    "pharynx, throat"
+   ],
+   "answer": 1,
+   "explain": "myocardi/o = heart muscle. Example: myocardial infarction (heart attack)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-043"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “hemangi/o” mean?",
+   "choices": [
+    "thirst",
+    "first",
+    "blood vessel",
+    "stopping, controlling, standing still"
+   ],
+   "answer": 2,
+   "explain": "hemangi/o = blood vessel. Example: hemangioma (benign blood-vessel tumor)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-044"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “bronchiol/o” mean?",
+   "choices": [
+    "bronchiole (small airway)",
+    "spinal cord",
+    "slight paralysis, weakness",
+    "cervix; neck"
+   ],
+   "answer": 0,
+   "explain": "bronchiol/o = bronchiole (small airway). Example: bronchiolitis (inflammation of small airways)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-045"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “rhin/o, nas/o” mean?",
+   "choices": [
+    "scaly, fish-like",
+    "nose",
+    "none",
+    "skin"
+   ],
+   "answer": 1,
+   "explain": "rhin/o, nas/o = nose. Example: rhinitis (inflammation of nasal lining)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-046"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “spir/o” mean?",
+   "choices": [
+    "breathing",
+    "process of measuring",
+    "fallopian (uterine) tube; also eustachian tube",
+    "hernia"
+   ],
+   "answer": 0,
+   "explain": "spir/o = breathing. Example: spirometer (device to measure breathing)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-047"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “alveol/o” mean?",
+   "choices": [
+    "rectum",
+    "alveolus (air sac)",
+    "cornea",
+    "night"
+   ],
+   "answer": 1,
+   "explain": "alveol/o = alveolus (air sac). Example: alveolar (pertaining to air sacs)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-048"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “adenoid/o” mean?",
+   "choices": [
+    "breakdown, destruction, separation",
+    "adenoids",
+    "two, double",
+    "beyond, excess"
+   ],
+   "answer": 1,
+   "explain": "adenoid/o = adenoids. Example: adenoidectomy (removal of the adenoids)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-049"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-capnia” mean?",
+   "choices": [
+    "fungus",
+    "surgical removal, excision",
+    "glue; glial (supporting) cells",
+    "carbon dioxide level"
+   ],
+   "answer": 3,
+   "explain": "-capnia = carbon dioxide level. Example: hypocapnia (low CO2)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-050"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “enter/o” mean?",
+   "choices": [
+    "neck",
+    "pertaining to",
+    "intestine (usually small)",
+    "instrument for recording"
+   ],
+   "answer": 2,
+   "explain": "enter/o = intestine (usually small). Example: gastroenteritis (stomach and intestinal inflammation)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-051"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “col/o, colon/o” mean?",
+   "choices": [
+    "pupil",
+    "cell",
+    "muscle",
+    "colon, large intestine"
+   ],
+   "answer": 3,
+   "explain": "col/o, colon/o = colon, large intestine. Example: colitis (inflammation of the colon)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-052"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “an/o” mean?",
+   "choices": [
+    "disease",
+    "two, double",
+    "anus",
+    "bursting forth of blood, heavy bleeding"
+   ],
+   "answer": 2,
+   "explain": "an/o = anus. Example: anal fissure (tear in the anal lining)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-053"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “cholecyst/o” mean?",
+   "choices": [
+    "hearing",
+    "movement",
+    "gallbladder",
+    "to hold back"
+   ],
+   "answer": 2,
+   "explain": "cholecyst/o = gallbladder. Example: cholecystitis (inflammation of the gallbladder)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-054"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “gloss/o, lingu/o” mean?",
+   "choices": [
+    "pertaining to",
+    "tongue",
+    "between",
+    "eyelid"
+   ],
+   "answer": 1,
+   "explain": "gloss/o, lingu/o = tongue. Example: sublingual (under the tongue)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-055"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “sial/o” mean?",
+   "choices": [
+    "saliva, salivary gland",
+    "labor, birth",
+    "bursa (fluid sac)",
+    "pertaining to"
+   ],
+   "answer": 0,
+   "explain": "sial/o = saliva, salivary gland. Example: sialadenitis (salivary gland inflammation)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-056"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “herni/o” mean?",
+   "choices": [
+    "tumor, mass",
+    "meninges",
+    "hernia",
+    "defecation, elimination of waste"
+   ],
+   "answer": 2,
+   "explain": "herni/o = hernia. Example: herniorrhaphy (hernia repair)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-057"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “nephr/o, ren/o” mean?",
+   "choices": [
+    "water, fluid",
+    "kidney",
+    "mind",
+    "surgical binding, fusion"
+   ],
+   "answer": 1,
+   "explain": "nephr/o, ren/o = kidney. Example: nephritis (inflammation of the kidney)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-058"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “cyst/o, vesic/o” mean?",
+   "choices": [
+    "sugar, glucose",
+    "hidden",
+    "to hold back",
+    "urinary bladder; sac"
+   ],
+   "answer": 3,
+   "explain": "cyst/o, vesic/o = urinary bladder; sac. Example: cystitis (bladder inflammation)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-059"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “glycos/o” mean?",
+   "choices": [
+    "flesh, connective tissue",
+    "surgical fixation",
+    "sugar, glucose",
+    "tissue"
+   ],
+   "answer": 2,
+   "explain": "glycos/o = sugar, glucose. Example: glycosuria (glucose in the urine)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-060"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “dips/o” mean?",
+   "choices": [
+    "thirst",
+    "ear",
+    "two, double",
+    "patella, kneecap"
+   ],
+   "answer": 0,
+   "explain": "dips/o = thirst. Example: polydipsia (excessive thirst)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-061"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “oophor/o, ovari/o” mean?",
+   "choices": [
+    "glue; glial (supporting) cells",
+    "ovary",
+    "cerebellum",
+    "vulva"
+   ],
+   "answer": 1,
+   "explain": "oophor/o, ovari/o = ovary. Example: oophorectomy (removal of an ovary)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-062"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “mamm/o, mast/o” mean?",
+   "choices": [
+    "prostate gland",
+    "glomerulus",
+    "synovial membrane/fluid",
+    "breast"
+   ],
+   "answer": 3,
+   "explain": "mamm/o, mast/o = breast. Example: mastectomy (removal of a breast)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-063"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “gravid/o, -gravida” mean?",
+   "choices": [
+    "tumor",
+    "extremities, height",
+    "pregnancy / pregnant woman",
+    "joint"
+   ],
+   "answer": 2,
+   "explain": "gravid/o, -gravida = pregnancy / pregnant woman. Example: gravida 2 (pregnant two times)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-064"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “-tocia” mean?",
+   "choices": [
+    "intestine (usually small)",
+    "common bile duct",
+    "fast, rapid",
+    "labor, birth"
+   ],
+   "answer": 3,
+   "explain": "-tocia = labor, birth. Example: dystocia (difficult labor)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-065"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “prostat/o” mean?",
+   "choices": [
+    "lip",
+    "urine condition",
+    "prostate gland",
+    "gland"
+   ],
+   "answer": 2,
+   "explain": "prostat/o = prostate gland. Example: prostatitis (inflammation of the prostate)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-066"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “balan/o” mean?",
+   "choices": [
+    "glans penis",
+    "instrument for recording",
+    "fast, rapid",
+    "eat, swallow"
+   ],
+   "answer": 0,
+   "explain": "balan/o = glans penis. Example: balanitis (inflammation of the glans penis)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-067"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “chondr/o” mean?",
+   "choices": [
+    "cartilage",
+    "hardening",
+    "urination",
+    "surgical puncture to remove fluid"
+   ],
+   "answer": 0,
+   "explain": "chondr/o = cartilage. Example: chondromalacia (softening of cartilage)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-068"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “burs/o” mean?",
+   "choices": [
+    "medical treatment, field of medicine",
+    "bursa (fluid sac)",
+    "visual examination",
+    "hard; sclera of eye"
+   ],
+   "answer": 1,
+   "explain": "burs/o = bursa (fluid sac). Example: bursitis (inflammation of a bursa)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-069"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “cost/o” mean?",
+   "choices": [
+    "lung, air",
+    "rectum",
+    "sperm",
+    "rib"
+   ],
+   "answer": 3,
+   "explain": "cost/o = rib. Example: costochondral (rib and cartilage)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-070"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “cervic/o (spine)” mean?",
+   "choices": [
+    "neck",
+    "through",
+    "pulse",
+    "base; basophil"
+   ],
+   "answer": 0,
+   "explain": "cervic/o (spine) = neck. Example: cervical vertebrae (neck bones)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-071"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “ili/o” mean?",
+   "choices": [
+    "ilium (upper hip bone)",
+    "digestion",
+    "urethra",
+    "sacrum"
+   ],
+   "answer": 0,
+   "explain": "ili/o = ilium (upper hip bone). Example: iliac crest (top edge of the hip bone)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-072"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “humer/o” mean?",
+   "choices": [
+    "slight paralysis, weakness",
+    "gray (matter)",
+    "humerus, upper arm bone",
+    "male"
+   ],
+   "answer": 2,
+   "explain": "humer/o = humerus, upper arm bone. Example: humeral (pertaining to the humerus)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-073"
+  },
+  {
+   "topic": "terms",
+   "type": "quiz",
+   "title": "Word part meaning",
+   "question": "What does “dactyl/o” mean?",
+   "choices": [
+    "none",
+    "finger, toe",
+    "before, forward",
+    "fever, heat"
+   ],
+   "answer": 1,
+   "explain": "dactyl/o = finger, toe. Example: syndactyly (webbed fingers or toes)",
+   "source": "Your Notion \"Medical Terminology Flashcards\" (CEHRS Bonus Study Pack) · Verify: medical terminology textbook",
+   "id": "terms-quiz-074"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "q.h. / q4h",
+   "back": "every hour / every 4 hours",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-397"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "h.s.",
+   "back": "at bedtime (error-prone; ISMP suggests writing out)",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-398"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "p.r.n. / PRN",
+   "back": "as needed",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-399"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "IV",
+   "back": "intravenous",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-400"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "IM",
+   "back": "intramuscular",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-401"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "subcut / SC",
+   "back": "subcutaneous (ISMP prefers 'subcut' over 'SC' or 'SQ')",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-402"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "mg",
+   "back": "milligram",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-403"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "mcg",
+   "back": "microgram",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-404"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "mL",
+   "back": "milliliter",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-405"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "kg",
+   "back": "kilogram",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-406"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "Rx",
+   "back": "prescription",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-407"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "Dx",
+   "back": "diagnosis",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-408"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "Hx",
+   "back": "history",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-409"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "Tx",
+   "back": "treatment",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-410"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "Sx",
+   "back": "symptoms",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-411"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "Fx",
+   "back": "fracture",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-412"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "c/o",
+   "back": "complains of",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-413"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "BP",
+   "back": "blood pressure",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-414"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "HR",
+   "back": "heart rate",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-415"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "RR",
+   "back": "respiratory rate",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-416"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "T",
+   "back": "temperature",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-417"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "SpO2",
+   "back": "oxygen saturation by pulse oximetry",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-418"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "BMI",
+   "back": "body mass index",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-419"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CBC",
+   "back": "complete blood count",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-420"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "BMP",
+   "back": "basic metabolic panel",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-421"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CMP",
+   "back": "comprehensive metabolic panel",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-422"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "A1c / HbA1c",
+   "back": "glycated hemoglobin (average blood sugar ~3 months)",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-423"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "UA",
+   "back": "urinalysis",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-424"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "ECG / EKG",
+   "back": "electrocardiogram",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-425"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CT",
+   "back": "computed tomography",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-426"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "MRI",
+   "back": "magnetic resonance imaging",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-427"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CXR",
+   "back": "chest x-ray",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-428"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "H&P",
+   "back": "history and physical",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-429"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "ROS",
+   "back": "review of systems",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-430"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CC",
+   "back": "chief complaint (avoid 'cc' for cubic centimeters - write mL)",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-431"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "HPI",
+   "back": "history of present illness",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-432"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "SOAP",
+   "back": "Subjective, Objective, Assessment, Plan",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-433"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "ADL",
+   "back": "activities of daily living",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-434"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "DNR",
+   "back": "do not resuscitate",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-435"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "NKDA",
+   "back": "no known drug allergies",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-436"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "COPD",
+   "back": "chronic obstructive pulmonary disease",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-437"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CHF",
+   "back": "congestive heart failure",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-438"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "MI",
+   "back": "myocardial infarction",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-439"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "CVA",
+   "back": "cerebrovascular accident (stroke)",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-440"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "DM",
+   "back": "diabetes mellitus",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-441"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "HTN",
+   "back": "hypertension",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-442"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "UTI",
+   "back": "urinary tract infection",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-443"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "URI",
+   "back": "upper respiratory infection",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-444"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "GERD",
+   "back": "gastroesophageal reflux disease",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-445"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "EHR / EMR",
+   "back": "electronic health record / electronic medical record",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-446"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "PHI / ePHI",
+   "back": "protected health information / electronic PHI",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-447"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "ROI",
+   "back": "release of information",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-448"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "HCPCS",
+   "back": "Healthcare Common Procedure Coding System",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-449"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "EOB",
+   "back": "explanation of benefits",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-450"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "HIE",
+   "back": "health information exchange",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-451"
+  },
+  {
+   "topic": "terms",
+   "type": "flip",
+   "title": "Abbreviation",
+   "front": "HL7 / FHIR",
+   "back": "health data exchange standards",
+   "source": "Your CEHRS Bonus Study Pack · Medical Abbreviations Cheat Sheet · Verify: ISMP error-prone abbreviations list",
+   "id": "terms-flip-452"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 2: Transcription",
+   "front": "What is transcription?",
+   "back": "Copying a gene's DNA into RNA (mRNA), done by RNA polymerase.",
+   "source": "Your Notion Study Notes · Day 2: Transcription",
+   "id": "bio-flip-001"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 2: Transcription",
+   "front": "Coding strand vs. template strand?",
+   "back": "RNA polymerase reads the template strand; the mRNA matches the coding strand (with U in place of T).",
+   "source": "Your Notion Study Notes · Day 2: Transcription",
+   "id": "bio-flip-002"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 2: Transcription",
+   "front": "Which base replaces thymine (T) in RNA?",
+   "back": "Uracil (U).",
+   "source": "Your Notion Study Notes · Day 2: Transcription",
+   "id": "bio-flip-003"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 2: Transcription",
+   "front": "How do you get mRNA from the TEMPLATE strand?",
+   "back": "Take the reverse complement first, then swap T for U.",
+   "source": "Your Notion Study Notes · Day 2: Transcription",
+   "id": "bio-flip-004"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 2: Transcription",
+   "front": "Practice: template 5'-TTAGCCCAT-3' gives what mRNA?",
+   "back": "AUGGGCUAA (Met-Gly-stop).",
+   "source": "Your Notion Study Notes · Day 2: Transcription",
+   "id": "bio-flip-005"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "What is the central dogma?",
+   "back": "Genetic information flows DNA to RNA (transcription) to protein (translation).",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-006"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "What is a codon?",
+   "back": "A group of three mRNA bases that codes for one amino acid or a stop signal.",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-007"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "What is the start codon, and what amino acid does it code for?",
+   "back": "AUG, methionine (Met).",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-008"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "Name the three stop codons.",
+   "back": "UAA, UAG, UGA.",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-009"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "What is a reading frame?",
+   "back": "The way a sequence is split into back-to-back codons from a starting point; shifting by 1 or 2 bases gives different codons.",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-010"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "Where does translation happen, and what brings the amino acids?",
+   "back": "On ribosomes; tRNAs carry the matching amino acids to each codon.",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-011"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "Why can a single-base insertion be so harmful?",
+   "back": "It causes a frameshift: every codon after it changes, often creating an early stop.",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-012"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Day 3: Translation and the Central Dogma",
+   "front": "Application: why do pharmacogenomics (PGx) tools check gene variants?",
+   "back": "Variants in drug-metabolizing genes (e.g., CYP2D6, CYP2C19) can change enzyme activity, so a patient may need a different drug or dose.",
+   "source": "Your Notion Study Notes · Day 3: Translation and the Central Dogma",
+   "id": "bio-flip-013"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 2: Transcription in code",
+   "front": "Python: turn a coding-strand DNA string into mRNA without Biopython?",
+   "back": "dna.replace('T', 'U')",
+   "source": "Your Notion Study Notes · Lesson 2: Transcription in code",
+   "id": "bio-flip-014"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 2: Transcription in code",
+   "front": "Biopython: what does Seq('ATGGCC').transcribe() do?",
+   "back": "Returns the mRNA (AUGGCC), treating the sequence as the coding strand.",
+   "source": "Your Notion Study Notes · Lesson 2: Transcription in code",
+   "id": "bio-flip-015"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 2: Transcription in code",
+   "front": "Review: in Python, what is the index of a list's first item?",
+   "back": "0 (lists are indexed from 0).",
+   "source": "Your Notion Study Notes · Lesson 2: Transcription in code",
+   "id": "bio-flip-016"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 2: Transcription in code",
+   "front": "Review: what does my_list[-1] return?",
+   "back": "The last item in the list.",
+   "source": "Your Notion Study Notes · Lesson 2: Transcription in code",
+   "id": "bio-flip-017"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 2: Transcription in code",
+   "front": "Review: what does len('ATGC') return?",
+   "back": "4, the number of characters (bases) in the string.",
+   "source": "Your Notion Study Notes · Lesson 2: Transcription in code",
+   "id": "bio-flip-018"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 3: Translation in code",
+   "front": "Biopython: what does seq.translate(to_stop=True) do?",
+   "back": "Translates mRNA/DNA to protein and stops at the first stop codon, leaving out the '*'.",
+   "source": "Your Notion Study Notes · Lesson 3: Translation in code",
+   "id": "bio-flip-019"
+  },
+  {
+   "topic": "bio",
+   "type": "flip",
+   "title": "Lesson 3: Translation in code",
+   "front": "What does Rosalind problem PROT ask?",
+   "back": "Given an RNA string, return the protein string it encodes.",
+   "source": "Your Notion Study Notes · Lesson 3: Translation in code",
+   "id": "bio-flip-020"
+  },
+  {
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "FHIR · Lesson 1",
+   "front": "What is FHIR?",
+   "back": "HL7's standard (Fast Healthcare Interoperability Resources) for sharing health data as modular \"resources\" over web APIs.",
+   "source": "Your Notion Study Notes · Lesson 1: FHIR basics · Verify: hl7.org/fhir",
+   "id": "cehrs-flip-016"
+  },
+  {
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "FHIR · Lesson 1",
+   "front": "What is a FHIR resource?",
+   "back": "A standard building block of health data (e.g., Patient, Observation, MedicationRequest) with defined fields, usually sent as JSON or XML.",
+   "source": "Your Notion Study Notes · Lesson 1: FHIR basics · Verify: hl7.org/fhir",
+   "id": "cehrs-flip-017"
+  },
+  {
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "FHIR · Lesson 1",
+   "front": "What does the FHIR MedicationRequest resource represent?",
+   "back": "An order or request for a patient to be supplied and given a medication, such as a prescription.",
+   "source": "Your Notion Study Notes · Lesson 1: FHIR basics · Verify: hl7.org/fhir",
+   "id": "cehrs-flip-018"
+  },
+  {
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "FHIR · Lesson 1",
+   "front": "Application: why does MedicationRequest matter to a pharmacy?",
+   "back": "It's a standard format for prescription orders, so EHR and pharmacy systems can share the drug, dose and instructions without retyping.",
+   "source": "Your Notion Study Notes · Lesson 1: FHIR basics · Verify: hl7.org/fhir",
+   "id": "cehrs-flip-019"
+  },
+  {
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "FHIR · Lesson 1",
+   "front": "Why do data standards like FHIR matter for AI in medicine?",
+   "back": "AI needs consistent, structured data from many systems; shared standards make that data usable and comparable.",
+   "source": "Your Notion Study Notes · Lesson 1: FHIR basics · Verify: hl7.org/fhir",
+   "id": "cehrs-flip-020"
+  },
+  {
+   "topic": "bio",
+   "type": "quiz",
+   "title": "Codons",
+   "question": "Which of these is NOT a stop codon?",
+   "choices": [
+    "UAA",
+    "AUG",
+    "UAG",
+    "UGA"
+   ],
+   "answer": 1,
+   "explain": "AUG is the start codon (methionine). Stops: UAA, UAG, UGA.",
+   "source": "Your Notion Study Notes · Day 3",
+   "id": "bio-quiz-001"
+  },
+  {
+   "topic": "bio",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What is the central dogma?",
+   "answer": "DNA to RNA (transcription) to protein (translation).",
+   "keywords": [
+    "dna",
+    "rna",
+    "protein"
+   ],
+   "match": "all",
+   "source": "Your Notion Study Notes · Day 3",
+   "id": "bio-speak-001"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "Hello / Good morning",
+   "back": "Hola / Buenos días",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-flip-001"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “Hello / Good morning”",
+   "text": "Hola",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-listen-001"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “Hello / Good morning”",
+   "answer": "Hola",
+   "keywords": [
+    "hola"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-speak-001"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "Thank you very much",
+   "back": "Muchas gracias",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-flip-002"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “Thank you very much”",
+   "text": "Muchas gracias",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-listen-002"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “Thank you very much”",
+   "answer": "Muchas gracias",
+   "keywords": [
+    "muchas",
+    "gracias"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-speak-002"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "What's your name? (informal)",
+   "back": "¿Cómo te llamas?",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-flip-003"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “What's your name? (informal)”",
+   "text": "¿Cómo te llamas?",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-listen-003"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “What's your name? (informal)”",
+   "answer": "¿Cómo te llamas?",
+   "keywords": [
+    "cómo",
+    "llamas"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-speak-003"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "the nurse (female)",
+   "back": "la enfermera",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-flip-004"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “the nurse (female)”",
+   "text": "la enfermera",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-listen-004"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “the nurse (female)”",
+   "answer": "la enfermera",
+   "keywords": [
+    "enfermera"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-speak-004"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "My name is Kristi and I am a student.",
+   "back": "Me llamo Kristi y soy estudiante.",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-flip-005"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “My name is Kristi and I am a student.”",
+   "text": "Me llamo Kristi y soy estudiante.",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-listen-005"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “My name is Kristi and I am a student.”",
+   "answer": "Me llamo Kristi y soy estudiante.",
+   "keywords": [
+    "llamo",
+    "kristi",
+    "soy"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 1",
+   "id": "spanish-speak-005"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "Good afternoon",
+   "back": "Buenas tardes",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-flip-006"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “Good afternoon”",
+   "text": "Buenas tardes",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-listen-006"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “Good afternoon”",
+   "answer": "Buenas tardes",
+   "keywords": [
+    "buenas",
+    "tardes"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-speak-006"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "Please",
+   "back": "Por favor",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-flip-007"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “Please”",
+   "text": "Por favor",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-listen-007"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “Please”",
+   "answer": "Por favor",
+   "keywords": [
+    "por",
+    "favor"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-speak-007"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "How are you? (informal)",
+   "back": "¿Cómo estás?",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-flip-008"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “How are you? (informal)”",
+   "text": "¿Cómo estás?",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-listen-008"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “How are you? (informal)”",
+   "answer": "¿Cómo estás?",
+   "keywords": [
+    "cómo",
+    "estás"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-speak-008"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "the pharmacy",
+   "back": "la farmacia",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-flip-009"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “the pharmacy”",
+   "text": "la farmacia",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-listen-009"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “the pharmacy”",
+   "answer": "la farmacia",
+   "keywords": [
+    "farmacia"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-speak-009"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "I am from Connecticut and I study healthcare administration.",
+   "back": "Soy de Connecticut y estudio administración de salud.",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-flip-010"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “I am from Connecticut and I study healthcare administration.”",
+   "text": "Soy de Connecticut y estudio administración de salud.",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-listen-010"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “I am from Connecticut and I study healthcare administration.”",
+   "answer": "Soy de Connecticut y estudio administración de salud.",
+   "keywords": [
+    "soy",
+    "connecticut",
+    "estudio"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 2",
+   "id": "spanish-speak-010"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "Good night",
+   "back": "Buenas noches",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-flip-011"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “Good night”",
+   "text": "Buenas noches",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-listen-011"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “Good night”",
+   "answer": "Buenas noches",
+   "keywords": [
+    "buenas",
+    "noches"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-speak-011"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "the medicine",
+   "back": "el medicamento (also fine: la medicina)",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-flip-012"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “the medicine”",
+   "text": "el medicamento",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-listen-012"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “the medicine”",
+   "answer": "el medicamento",
+   "keywords": [
+    "medicamento"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-speak-012"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "the doctor (a woman)",
+   "back": "la doctora (also fine: la médica)",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-flip-013"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “the doctor (a woman)”",
+   "text": "la doctora",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-listen-013"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “the doctor (a woman)”",
+   "answer": "la doctora",
+   "keywords": [
+    "doctora"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-speak-013"
+  },
+  {
+   "topic": "spanish",
+   "type": "flip",
+   "title": "English → Spanish",
+   "front": "My name is Kristi and I work in a pharmacy.",
+   "back": "Me llamo Kristi y trabajo en una farmacia.",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-flip-014"
+  },
+  {
+   "topic": "spanish",
+   "type": "listen",
+   "title": "Hear it in Spanish: “My name is Kristi and I work in a pharmacy.”",
+   "text": "Me llamo Kristi y trabajo en una farmacia.",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-listen-014"
+  },
+  {
+   "topic": "spanish",
+   "type": "speak",
+   "title": "Say it in Spanish",
+   "prompt": "Say in Spanish: “My name is Kristi and I work in a pharmacy.”",
+   "answer": "Me llamo Kristi y trabajo en una farmacia.",
+   "keywords": [
+    "llamo",
+    "kristi",
+    "trabajo"
+   ],
+   "match": "all",
+   "lang": "es-ES",
+   "source": "Your Notion Spanish Drills · Day 3",
+   "id": "spanish-speak-014"
   }
  ]
 }
