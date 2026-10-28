@@ -1,0 +1,3445 @@
+{
+ "version": 1,
+ "topics": {
+  "pharmacy": {
+   "label": "Pharmacy Tech",
+   "emoji": "💊"
+  },
+  "cehrs": {
+   "label": "CEHRS / EHR",
+   "emoji": "🗂️"
+  },
+  "admin": {
+   "label": "Healthcare Admin",
+   "emoji": "🏥"
+  },
+  "terms": {
+   "label": "Med Terminology",
+   "emoji": "🧬"
+  }
+ },
+ "cards": [
+  {
+   "id": "pharmacy-flip-001",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Lipitor",
+   "back": "atorvastatin",
+   "note": "statin (cholesterol)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-002",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Zocor",
+   "back": "simvastatin",
+   "note": "statin (cholesterol)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-003",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Crestor",
+   "back": "rosuvastatin",
+   "note": "statin (cholesterol)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-004",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Norvasc",
+   "back": "amlodipine",
+   "note": "calcium channel blocker (BP)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-005",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Zestril / Prinivil",
+   "back": "lisinopril",
+   "note": "ACE inhibitor (BP)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-006",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Vasotec",
+   "back": "enalapril",
+   "note": "ACE inhibitor (BP)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-007",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Cozaar",
+   "back": "losartan",
+   "note": "ARB (BP)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-008",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Diovan",
+   "back": "valsartan",
+   "note": "ARB (BP)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-009",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Lopressor",
+   "back": "metoprolol tartrate",
+   "note": "beta blocker",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-010",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Toprol-XL",
+   "back": "metoprolol succinate",
+   "note": "beta blocker (extended release)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-011",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Tenormin",
+   "back": "atenolol",
+   "note": "beta blocker",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-012",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Coreg",
+   "back": "carvedilol",
+   "note": "beta blocker",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-013",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Lasix",
+   "back": "furosemide",
+   "note": "loop diuretic",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-014",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Microzide",
+   "back": "hydrochlorothiazide",
+   "note": "thiazide diuretic",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-015",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Glucophage",
+   "back": "metformin",
+   "note": "biguanide (type 2 diabetes)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-016",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Synthroid",
+   "back": "levothyroxine",
+   "note": "thyroid hormone",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-017",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Prilosec",
+   "back": "omeprazole",
+   "note": "proton pump inhibitor",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-018",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Nexium",
+   "back": "esomeprazole",
+   "note": "proton pump inhibitor",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-019",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Protonix",
+   "back": "pantoprazole",
+   "note": "proton pump inhibitor",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-020",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Zoloft",
+   "back": "sertraline",
+   "note": "SSRI antidepressant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-021",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Lexapro",
+   "back": "escitalopram",
+   "note": "SSRI antidepressant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-022",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Prozac",
+   "back": "fluoxetine",
+   "note": "SSRI antidepressant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-023",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Celexa",
+   "back": "citalopram",
+   "note": "SSRI antidepressant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-024",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Wellbutrin",
+   "back": "bupropion",
+   "note": "antidepressant (NDRI)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-025",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Cymbalta",
+   "back": "duloxetine",
+   "note": "SNRI antidepressant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-026",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Effexor XR",
+   "back": "venlafaxine",
+   "note": "SNRI antidepressant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-027",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Neurontin",
+   "back": "gabapentin",
+   "note": "anticonvulsant / nerve pain",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-028",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Lyrica",
+   "back": "pregabalin",
+   "note": "anticonvulsant / nerve pain (C-V)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-029",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Xanax",
+   "back": "alprazolam",
+   "note": "benzodiazepine (C-IV)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-030",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Ativan",
+   "back": "lorazepam",
+   "note": "benzodiazepine (C-IV)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-031",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Klonopin",
+   "back": "clonazepam",
+   "note": "benzodiazepine (C-IV)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-032",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Ambien",
+   "back": "zolpidem",
+   "note": "sedative-hypnotic (C-IV)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-033",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Coumadin",
+   "back": "warfarin",
+   "note": "anticoagulant",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-034",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Eliquis",
+   "back": "apixaban",
+   "note": "anticoagulant (factor Xa inhibitor)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-035",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Xarelto",
+   "back": "rivaroxaban",
+   "note": "anticoagulant (factor Xa inhibitor)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-036",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Plavix",
+   "back": "clopidogrel",
+   "note": "antiplatelet",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-037",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Singulair",
+   "back": "montelukast",
+   "note": "leukotriene receptor antagonist (asthma/allergy)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-038",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Flonase",
+   "back": "fluticasone (nasal)",
+   "note": "nasal corticosteroid",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-039",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "ProAir / Ventolin",
+   "back": "albuterol",
+   "note": "short-acting bronchodilator (rescue inhaler)",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-040",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Brand ↔ generic",
+   "front": "Zyrtec",
+   "back": "cetirizine",
+   "note": "antihistamine",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-041",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Amoxil is the brand name for amoxicillin. It is a penicillin antibiotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-042",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Augmentin is the brand name for amoxicillin/clavulanate. It is a penicillin antibiotic + beta-lactamase inhibitor.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-043",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Zithromax is the brand name for azithromycin. It is a macrolide antibiotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-044",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Cipro is the brand name for ciprofloxacin. It is a fluoroquinolone antibiotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-045",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Keflex is the brand name for cephalexin. It is a cephalosporin antibiotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-046",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Bactrim is the brand name for sulfamethoxazole/trimethoprim. It is a sulfonamide antibiotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-047",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Flomax is the brand name for tamsulosin. It is a alpha blocker (BPH).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-048",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Seroquel is the brand name for quetiapine. It is a atypical antipsychotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-049",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Abilify is the brand name for aripiprazole. It is a atypical antipsychotic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-050",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Adderall is the brand name for amphetamine/dextroamphetamine. It is a CNS stimulant (C-II).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-051",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Zyloprim is the brand name for allopurinol. It is a xanthine oxidase inhibitor (gout).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-052",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Lantus is the brand name for insulin glargine. It is a long-acting insulin.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-053",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Januvia is the brand name for sitagliptin. It is a DPP-4 inhibitor (type 2 diabetes).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-054",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Jardiance is the brand name for empagliflozin. It is a SGLT2 inhibitor.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-055",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Ozempic is the brand name for semaglutide. It is a GLP-1 receptor agonist.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-056",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Mobic is the brand name for meloxicam. It is a NSAID.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-057",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Flexeril is the brand name for cyclobenzaprine. It is a muscle relaxant.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-058",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Valtrex is the brand name for valacyclovir. It is a antiviral (herpes).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-059",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Zofran is the brand name for ondansetron. It is a antiemetic.",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-060",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Desyrel is the brand name for trazodone. It is a antidepressant (often used for sleep).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-061",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Ultram is the brand name for tramadol. It is a opioid analgesic (C-IV).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-listen-062",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: brand & generic",
+   "text": "Percocet is the brand name for oxycodone/acetaminophen. It is a opioid analgesic (C-II).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-063",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Lexapro?",
+   "choices": [
+    "enalapril",
+    "hydrochlorothiazide",
+    "rosuvastatin",
+    "escitalopram"
+   ],
+   "answer": 3,
+   "explain": "Lexapro = escitalopram (SSRI antidepressant).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-064",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Ultram?",
+   "choices": [
+    "enalapril",
+    "clopidogrel",
+    "levothyroxine",
+    "tramadol"
+   ],
+   "answer": 3,
+   "explain": "Ultram = tramadol (opioid analgesic (C-IV)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-065",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Toprol-XL?",
+   "choices": [
+    "metoprolol succinate",
+    "levothyroxine",
+    "amoxicillin/clavulanate",
+    "oxycodone/acetaminophen"
+   ],
+   "answer": 0,
+   "explain": "Toprol-XL = metoprolol succinate (beta blocker (extended release)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-066",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Effexor XR?",
+   "choices": [
+    "amlodipine",
+    "rosuvastatin",
+    "venlafaxine",
+    "metformin"
+   ],
+   "answer": 2,
+   "explain": "Effexor XR = venlafaxine (SNRI antidepressant).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-067",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Augmentin?",
+   "choices": [
+    "rivaroxaban",
+    "metoprolol succinate",
+    "amoxicillin/clavulanate",
+    "valsartan"
+   ],
+   "answer": 2,
+   "explain": "Augmentin = amoxicillin/clavulanate (penicillin antibiotic + beta-lactamase inhibitor).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-068",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Norvasc?",
+   "choices": [
+    "fluticasone (nasal)",
+    "valsartan",
+    "amlodipine",
+    "albuterol"
+   ],
+   "answer": 2,
+   "explain": "Norvasc = amlodipine (calcium channel blocker (BP)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-069",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Zestril / Prinivil?",
+   "choices": [
+    "tamsulosin",
+    "lisinopril",
+    "enalapril",
+    "montelukast"
+   ],
+   "answer": 1,
+   "explain": "Zestril / Prinivil = lisinopril (ACE inhibitor (BP)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-070",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Januvia?",
+   "choices": [
+    "zolpidem",
+    "rivaroxaban",
+    "ciprofloxacin",
+    "sitagliptin"
+   ],
+   "answer": 3,
+   "explain": "Januvia = sitagliptin (DPP-4 inhibitor (type 2 diabetes)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-071",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Xarelto?",
+   "choices": [
+    "rivaroxaban",
+    "albuterol",
+    "tramadol",
+    "lorazepam"
+   ],
+   "answer": 0,
+   "explain": "Xarelto = rivaroxaban (anticoagulant (factor Xa inhibitor)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-072",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Cozaar?",
+   "choices": [
+    "sulfamethoxazole/trimethoprim",
+    "losartan",
+    "insulin glargine",
+    "furosemide"
+   ],
+   "answer": 1,
+   "explain": "Cozaar = losartan (ARB (BP)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-073",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Wellbutrin?",
+   "choices": [
+    "rivaroxaban",
+    "warfarin",
+    "bupropion",
+    "valacyclovir"
+   ],
+   "answer": 2,
+   "explain": "Wellbutrin = bupropion (antidepressant (NDRI)).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-074",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Flonase?",
+   "choices": [
+    "fluticasone (nasal)",
+    "cetirizine",
+    "lisinopril",
+    "pantoprazole"
+   ],
+   "answer": 0,
+   "explain": "Flonase = fluticasone (nasal) (nasal corticosteroid).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-075",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Flexeril?",
+   "choices": [
+    "atenolol",
+    "fluoxetine",
+    "cyclobenzaprine",
+    "aripiprazole"
+   ],
+   "answer": 2,
+   "explain": "Flexeril = cyclobenzaprine (muscle relaxant).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-076",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Brand → generic",
+   "question": "What is the generic name for Coumadin?",
+   "choices": [
+    "rosuvastatin",
+    "warfarin",
+    "ciprofloxacin",
+    "lisinopril"
+   ],
+   "answer": 1,
+   "explain": "Coumadin = warfarin (anticoagulant).",
+   "source": "Verify on DailyMed (dailymed.nlm.nih.gov) or your PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-077",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Drug stems",
+   "question": "Which drug is a proton pump inhibitor?",
+   "choices": [
+    "lisinopril",
+    "sertraline",
+    "montelukast",
+    "pantoprazole"
+   ],
+   "answer": 3,
+   "explain": "PPIs end in -prazole (omeprazole, esomeprazole, pantoprazole).",
+   "source": "USAN stem list / PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-078",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Drug stems",
+   "question": "The suffix -pril usually means…",
+   "choices": [
+    "ARB",
+    "statin",
+    "ACE inhibitor",
+    "beta blocker"
+   ],
+   "answer": 2,
+   "explain": "Lisinopril, enalapril, benazepril: ACE inhibitors.",
+   "source": "USAN stem list / PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-079",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Drug stems",
+   "question": "The suffix -sartan usually means…",
+   "choices": [
+    "calcium channel blocker",
+    "ACE inhibitor",
+    "SSRI",
+    "ARB (angiotensin II receptor blocker)"
+   ],
+   "answer": 3,
+   "explain": "Losartan, valsartan, irbesartan: ARBs.",
+   "source": "USAN stem list / PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-080",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Drug stems",
+   "question": "The suffix -olol usually means…",
+   "choices": [
+    "beta blocker",
+    "diuretic",
+    "benzodiazepine",
+    "statin"
+   ],
+   "answer": 0,
+   "explain": "Metoprolol, atenolol, propranolol: beta blockers.",
+   "source": "USAN stem list / PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-081",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Drug stems",
+   "question": "The suffix -statin usually means…",
+   "choices": [
+    "antibiotic",
+    "antifungal",
+    "antiviral",
+    "cholesterol-lowering HMG-CoA reductase inhibitor"
+   ],
+   "answer": 3,
+   "explain": "Atorvastatin, simvastatin, rosuvastatin. (Watch out: nystatin is an antifungal, not a statin!)",
+   "source": "USAN stem list / PTCB study guide"
+  },
+  {
+   "id": "pharmacy-quiz-082",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Drug stems",
+   "question": "Which is a benzodiazepine?",
+   "choices": [
+    "lorazepam",
+    "loratadine",
+    "losartan",
+    "levothyroxine"
+   ],
+   "answer": 0,
+   "explain": "-azepam / -zolam endings are usually benzodiazepines (C-IV).",
+   "source": "USAN stem list / PTCB study guide"
+  },
+  {
+   "id": "pharmacy-flip-083",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "bid",
+   "back": "twice a day",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-084",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "tid",
+   "back": "three times a day",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-085",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "qid",
+   "back": "four times a day",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-086",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "qhs",
+   "back": "at bedtime",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-087",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "prn",
+   "back": "as needed",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-088",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "po",
+   "back": "by mouth",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-089",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "ac",
+   "back": "before meals",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-090",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "pc",
+   "back": "after meals",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-091",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "q4h",
+   "back": "every 4 hours",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-092",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "stat",
+   "back": "immediately",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-093",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "NPO",
+   "back": "nothing by mouth",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-094",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "SL",
+   "back": "under the tongue (sublingual)",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-095",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "gtt",
+   "back": "drop(s)",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-096",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "ud / ut dict",
+   "back": "as directed",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-097",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "disp",
+   "back": "dispense",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-098",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "PR",
+   "back": "rectally",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-099",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "top",
+   "back": "topically",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-flip-100",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "Sig code",
+   "front": "inh",
+   "back": "inhale / by inhalation",
+   "source": "Common pharmacy abbreviations; check ISMP error-prone list"
+  },
+  {
+   "id": "pharmacy-speak-101",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does “bid” mean on a prescription?",
+   "answer": "twice a day",
+   "keywords": [
+    "twice",
+    "two"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "pharmacy-speak-102",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does “qhs” mean on a prescription?",
+   "answer": "at bedtime",
+   "keywords": [
+    "bedtime",
+    "bed",
+    "night"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "pharmacy-speak-103",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does “prn” mean on a prescription?",
+   "answer": "as needed",
+   "keywords": [
+    "needed",
+    "need"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "pharmacy-speak-104",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does “po” mean on a prescription?",
+   "answer": "by mouth",
+   "keywords": [
+    "mouth",
+    "oral"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "pharmacy-speak-105",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does “ac” mean on a prescription?",
+   "answer": "before meals",
+   "keywords": [
+    "before"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "pharmacy-speak-106",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does “tid” mean on a prescription?",
+   "answer": "three times a day",
+   "keywords": [
+    "three"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "pharmacy-read-107",
+   "topic": "pharmacy",
+   "type": "read",
+   "title": "ISMP: don't write these",
+   "body": "Some abbreviations cause real errors. **QD** (daily) gets misread as QID; **QOD** as QD; **U** for units looks like 0 or 4; **IU** looks like IV or 10; **trailing zeros** (5.0 mg → read as 50 mg) and **naked decimals** (.5 mg → 5 mg). Write “daily”, “units”, and 0.5 mg.",
+   "source": "ISMP List of Error-Prone Abbreviations; Joint Commission Do Not Use List"
+  },
+  {
+   "id": "pharmacy-read-108",
+   "topic": "pharmacy",
+   "type": "read",
+   "title": "Eyes vs. ears",
+   "body": "**OD** right eye · **OS** left eye · **OU** both eyes. **AD** right ear · **AS** left ear · **AU** both ears. ISMP lists all six as error-prone (eye/ear mix-ups!), so many pharmacies now spell them out.",
+   "source": "ISMP List of Error-Prone Abbreviations"
+  },
+  {
+   "id": "pharmacy-demo-109",
+   "topic": "pharmacy",
+   "type": "demo",
+   "title": "Decode a sig",
+   "steps": [
+    "Read the Rx: “Amoxicillin 500 mg cap. Sig: 1 cap po tid x 10 d. Disp #30”",
+    "“1 cap” → take one capsule",
+    "“po” → by mouth",
+    "“tid” → three times a day",
+    "“x 10 d” → for 10 days",
+    "Check the math: 1 × 3 × 10 = 30 ✔ matches Disp #30",
+    "Label: “Take 1 capsule by mouth three times a day for 10 days.”"
+   ]
+  },
+  {
+   "id": "pharmacy-flip-110",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "DEA schedule",
+   "front": "C-I",
+   "back": "High abuse potential, no currently accepted medical use in the US (e.g., heroin, LSD).",
+   "source": "DEA Diversion Control Division – Controlled Substance Schedules"
+  },
+  {
+   "id": "pharmacy-flip-111",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "DEA schedule",
+   "front": "C-II",
+   "back": "High abuse potential with accepted medical use; no refills (e.g., oxycodone, fentanyl, amphetamine, methylphenidate).",
+   "source": "DEA Diversion Control Division – Controlled Substance Schedules"
+  },
+  {
+   "id": "pharmacy-flip-112",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "DEA schedule",
+   "front": "C-III",
+   "back": "Moderate-to-low potential for dependence; refills up to 5 times within 6 months (e.g., buprenorphine, ketamine, anabolic steroids).",
+   "source": "DEA Diversion Control Division – Controlled Substance Schedules"
+  },
+  {
+   "id": "pharmacy-flip-113",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "DEA schedule",
+   "front": "C-IV",
+   "back": "Low potential for abuse; refills up to 5 times within 6 months (e.g., alprazolam, lorazepam, zolpidem, tramadol).",
+   "source": "DEA Diversion Control Division – Controlled Substance Schedules"
+  },
+  {
+   "id": "pharmacy-flip-114",
+   "topic": "pharmacy",
+   "type": "flip",
+   "title": "DEA schedule",
+   "front": "C-V",
+   "back": "Lowest abuse potential (e.g., pregabalin, cough preparations with limited codeine).",
+   "source": "DEA Diversion Control Division – Controlled Substance Schedules"
+  },
+  {
+   "id": "pharmacy-quiz-115",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "DEA & controlled substances",
+   "question": "Which DEA form is used to order Schedule II drugs (paper)?",
+   "choices": [
+    "DEA Form 41",
+    "DEA Form 222",
+    "DEA Form 106",
+    "DEA Form 224"
+   ],
+   "answer": 1,
+   "explain": "Form 222 (or the electronic CSOS system) orders C-II. Form 106 = theft/loss, 41 = destruction, 224 = pharmacy registration.",
+   "source": "DEA Pharmacist's Manual"
+  },
+  {
+   "id": "pharmacy-quiz-116",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "DEA & controlled substances",
+   "question": "Theft or significant loss of controlled substances is reported on…",
+   "choices": [
+    "DEA Form 41",
+    "DEA Form 363",
+    "DEA Form 222",
+    "DEA Form 106"
+   ],
+   "answer": 3,
+   "explain": "Form 106 reports theft or significant loss.",
+   "source": "DEA Pharmacist's Manual"
+  },
+  {
+   "id": "pharmacy-quiz-117",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "DEA & controlled substances",
+   "question": "Can a C-II prescription have refills?",
+   "choices": [
+    "Yes, up to 1 year",
+    "No",
+    "Yes, up to 5 in 6 months",
+    "Only if the prescriber writes ‘PRN’"
+   ],
+   "answer": 1,
+   "explain": "C-II prescriptions cannot be refilled (prescribers may issue multiple Rxs under specific rules).",
+   "source": "DEA Pharmacist's Manual"
+  },
+  {
+   "id": "pharmacy-quiz-118",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "DEA & controlled substances",
+   "question": "Alprazolam (Xanax) is in which schedule?",
+   "choices": [
+    "C-II",
+    "C-V",
+    "C-III",
+    "C-IV"
+   ],
+   "answer": 3,
+   "explain": "Benzodiazepines are Schedule IV.",
+   "source": "DEA Pharmacist's Manual"
+  },
+  {
+   "id": "pharmacy-quiz-119",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "DEA & controlled substances",
+   "question": "C-III and C-IV refills are limited to…",
+   "choices": [
+    "Unlimited for 1 year",
+    "11 refills in 1 year",
+    "5 refills within 6 months of the date written",
+    "No refills"
+   ],
+   "answer": 2,
+   "explain": "Federal rule: up to 5 refills within 6 months.",
+   "source": "DEA Pharmacist's Manual"
+  },
+  {
+   "id": "pharmacy-quiz-120",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "1 teaspoon (tsp) = ? mL",
+   "choices": [
+    "15 mL",
+    "30 mL",
+    "2.5 mL",
+    "5 mL"
+   ],
+   "answer": 3,
+   "explain": "1 tsp = 5 mL; 1 tbsp = 15 mL; 1 fl oz ≈ 30 mL.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-121",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "1 kg = ? lb",
+   "choices": [
+    "1 lb",
+    "3.3 lb",
+    "2.2 lb",
+    "1.5 lb"
+   ],
+   "answer": 2,
+   "explain": "Divide pounds by 2.2 to get kg.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-122",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "1 mg = ? mcg",
+   "choices": [
+    "100 mcg",
+    "10,000 mcg",
+    "10 mcg",
+    "1,000 mcg"
+   ],
+   "answer": 3,
+   "explain": "g → mg → mcg: multiply by 1,000 each step.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-123",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "Rx: 1 tab bid, Disp #60. Days supply?",
+   "choices": [
+    "30 days",
+    "20 days",
+    "60 days",
+    "15 days"
+   ],
+   "answer": 0,
+   "explain": "bid = 2/day. 60 ÷ 2 = 30 days.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-124",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "Rx: 2 tabs tid, Disp #90. Days supply?",
+   "choices": [
+    "15 days",
+    "10 days",
+    "30 days",
+    "45 days"
+   ],
+   "answer": 0,
+   "explain": "2 × 3 = 6 tabs/day. 90 ÷ 6 = 15 days.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-125",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "Amoxicillin 250 mg/5 mL. Dose 500 mg. How many mL?",
+   "choices": [
+    "20 mL",
+    "10 mL",
+    "5 mL",
+    "2 mL"
+   ],
+   "answer": 1,
+   "explain": "500 ÷ 250 = 2 → 2 × 5 mL = 10 mL.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-126",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "A child weighs 44 lb. Dose is 10 mg/kg. Dose?",
+   "choices": [
+    "440 mg",
+    "20 mg",
+    "200 mg",
+    "100 mg"
+   ],
+   "answer": 2,
+   "explain": "44 ÷ 2.2 = 20 kg × 10 mg = 200 mg.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-127",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "A 1% w/v solution contains…",
+   "choices": [
+    "10 g per 100 mL",
+    "1 g per 1 mL",
+    "1 g per 100 mL",
+    "1 mg per 100 mL"
+   ],
+   "answer": 2,
+   "explain": "% w/v = grams per 100 mL.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-quiz-128",
+   "topic": "pharmacy",
+   "type": "quiz",
+   "title": "Pharmacy math",
+   "question": "1 tablespoon (tbsp) = ? mL",
+   "choices": [
+    "5 mL",
+    "10 mL",
+    "15 mL",
+    "30 mL"
+   ],
+   "answer": 2,
+   "explain": "1 tbsp = 3 tsp = 15 mL.",
+   "source": "Standard conversions (PTCB calculations)"
+  },
+  {
+   "id": "pharmacy-demo-129",
+   "topic": "pharmacy",
+   "type": "demo",
+   "title": "Days supply, step by step",
+   "steps": [
+    "Rx: Metformin 500 mg, 1 tab po bid, #180",
+    "Doses per day: bid = 2",
+    "Tablets per day: 1 × 2 = 2",
+    "Days supply = quantity ÷ per day",
+    "180 ÷ 2 = 90 days ✔"
+   ]
+  },
+  {
+   "id": "pharmacy-demo-130",
+   "topic": "pharmacy",
+   "type": "demo",
+   "title": "Counting tablets on a tray",
+   "steps": [
+    "Verify the drug, strength & NDC match the Rx",
+    "Pour tablets onto a clean counting tray",
+    "Use the spatula to slide them in groups of 5",
+    "Count 5, 10, 15… to the Rx quantity",
+    "Slide the counted tablets into the chute & return extras to stock bottle",
+    "Close the stock bottle right away (prevents mix-ups)",
+    "Pharmacist does final verification"
+   ]
+  },
+  {
+   "id": "pharmacy-scenario-131",
+   "topic": "pharmacy",
+   "type": "scenario",
+   "title": "Early refill",
+   "setup": "A patient wants to refill their oxycodone/APAP (C-II) prescription. You look it up: it was filled 12 days ago for a 30-day supply. What do you do?",
+   "choices": [
+    {
+     "text": "Refill it — they have a valid Rx",
+     "correct": false,
+     "result": "C-II prescriptions can't be refilled, and this would also be very early. ❌"
+    },
+    {
+     "text": "Tell them politely you'll need the pharmacist, and alert the pharmacist",
+     "correct": true,
+     "result": "Right. Controlled-substance and early-fill decisions go to the pharmacist. ✅"
+    },
+    {
+     "text": "Give them a few tablets from stock to tide them over",
+     "correct": false,
+     "result": "Never. That's dispensing without a valid Rx — a serious violation. ❌"
+    }
+   ]
+  },
+  {
+   "id": "pharmacy-scenario-132",
+   "topic": "pharmacy",
+   "type": "scenario",
+   "title": "Look-alike, sound-alike",
+   "setup": "The Rx says hydroxyzine 25 mg. On the shelf, hydralazine 25 mg sits right next to it. The bottle you grabbed says “hydra…”. What now?",
+   "choices": [
+    {
+     "text": "Close enough — same strength",
+     "correct": false,
+     "result": "Hydralazine is a BP drug; hydroxyzine is an antihistamine. Classic LASA error. ❌"
+    },
+    {
+     "text": "Stop, compare the full name and NDC to the Rx, and grab the correct bottle",
+     "correct": true,
+     "result": "Yes — always match name, strength, dosage form AND NDC. ✅"
+    }
+   ],
+   "source": "ISMP List of Confused Drug Names"
+  },
+  {
+   "id": "pharmacy-read-133",
+   "topic": "pharmacy",
+   "type": "read",
+   "title": "What the NDC tells you",
+   "body": "The **National Drug Code** is a 10-digit, 3-segment number (labeler – product – package), often shown as 11 digits for billing (5-4-2). Scanning it during fill catches wrong-drug errors.",
+   "source": "FDA National Drug Code Directory"
+  },
+  {
+   "id": "pharmacy-listen-134",
+   "topic": "pharmacy",
+   "type": "listen",
+   "title": "Hear it: the 5 rights",
+   "text": "The five rights of medication administration are: the right patient, the right drug, the right dose, the right route, and the right time."
+  },
+  {
+   "id": "pharmacy-speak-135",
+   "topic": "pharmacy",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "Name the five rights of medication administration.",
+   "answer": "Right patient, drug, dose, route, time",
+   "keywords": [
+    "patient",
+    "drug",
+    "dose",
+    "route",
+    "time"
+   ]
+  },
+  {
+   "id": "cehrs-flip-001",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "ICD-10-CM",
+   "back": "Diagnosis codes (why the patient was seen). 3–7 characters, first one is a letter. E.g., E11.9 = type 2 diabetes without complications.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-002",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "CPT",
+   "back": "Procedure & service codes for outpatient/physician work. 5 characters, maintained by the AMA.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-003",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "HCPCS Level II",
+   "back": "Alphanumeric codes (letter + 4 digits) for supplies, DME, ambulance, some drugs.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-004",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "ICD-10-PCS",
+   "back": "Inpatient hospital procedure codes — always 7 characters.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-005",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "HL7",
+   "back": "Health Level Seven: standards for exchanging clinical data between systems (e.g., ADT, lab result messages).",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-006",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "FHIR",
+   "back": "Fast Healthcare Interoperability Resources: HL7's modern, web/API-based standard for sharing health data.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-007",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "LOINC",
+   "back": "Codes for lab tests and clinical observations.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-008",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "SNOMED CT",
+   "back": "Clinical terminology for findings, diagnoses, procedures in the EHR.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-009",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "RxNorm",
+   "back": "Standard names/codes for clinical drugs (NLM).",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-010",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "NPI",
+   "back": "National Provider Identifier: 10-digit unique ID for providers.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-011",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "CPOE",
+   "back": "Computerized Provider Order Entry: providers enter orders electronically (fewer handwriting errors).",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-012",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "MPI",
+   "back": "Master Patient Index: the database that links each patient to one unique record — prevents duplicates.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-013",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "Audit trail",
+   "back": "A log of who accessed or changed a record, and when. Key HIPAA Security Rule tool.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-014",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "CDS",
+   "back": "Clinical Decision Support: alerts/reminders in the EHR (e.g., drug-allergy warning).",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-flip-015",
+   "topic": "cehrs",
+   "type": "flip",
+   "title": "EHR term",
+   "front": "EMR vs EHR",
+   "back": "EMR = digital chart within one practice. EHR = designed to be shared across providers and organizations.",
+   "source": "NHA CEHRS test plan; CMS/ONC glossaries"
+  },
+  {
+   "id": "cehrs-quiz-016",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "A 5-digit code for an office visit procedure is most likely…",
+   "choices": [
+    "CPT",
+    "ICD-10-CM",
+    "NDC",
+    "LOINC"
+   ],
+   "answer": 0,
+   "explain": "CPT codes describe procedures/services and are 5 characters.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-017",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Which code set describes WHY the patient was seen?",
+   "choices": [
+    "CPT",
+    "HCPCS Level II",
+    "RxNorm",
+    "ICD-10-CM"
+   ],
+   "answer": 3,
+   "explain": "Diagnosis = ICD-10-CM.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-018",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Which claim form is used for professional (physician office) services?",
+   "choices": [
+    "UB-04",
+    "W-9",
+    "CMS-855",
+    "CMS-1500"
+   ],
+   "answer": 3,
+   "explain": "CMS-1500 (837P electronically). Hospitals use UB-04 (837I).",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-019",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Which claim form do hospitals (institutional) use?",
+   "choices": [
+    "UB-04",
+    "DEA 222",
+    "ABN",
+    "CMS-1500"
+   ],
+   "answer": 0,
+   "explain": "UB-04 / electronic 837I.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-020",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "The electronic remittance advice (payment explanation) transaction is…",
+   "choices": [
+    "X12 270",
+    "HL7 ADT",
+    "X12 835",
+    "X12 837"
+   ],
+   "answer": 2,
+   "explain": "837 = claim, 835 = remittance, 270/271 = eligibility inquiry/response.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-021",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Which law (2009) funded EHR adoption incentives (Meaningful Use)?",
+   "choices": [
+    "EMTALA",
+    "HIPAA (1996)",
+    "HITECH Act",
+    "ACA (2010)"
+   ],
+   "answer": 2,
+   "explain": "HITECH, part of ARRA 2009. Meaningful Use was later renamed Promoting Interoperability.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-022",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "SOAP note: the ‘O’ stands for…",
+   "choices": [
+    "Outcome",
+    "Objective",
+    "Orders",
+    "Observation"
+   ],
+   "answer": 1,
+   "explain": "Subjective, Objective, Assessment, Plan.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-023",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "A walker would be coded with…",
+   "choices": [
+    "ICD-10-PCS",
+    "LOINC",
+    "HCPCS Level II",
+    "CPT"
+   ],
+   "answer": 2,
+   "explain": "DME & supplies → HCPCS Level II.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-024",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Which standard is API-based and used by many patient apps?",
+   "choices": [
+    "NCPDP SCRIPT",
+    "FHIR",
+    "ICD-10",
+    "X12 837"
+   ],
+   "answer": 1,
+   "explain": "FHIR uses web APIs (RESTful).",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-025",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "The 2016 law that prohibits ‘information blocking’ is…",
+   "choices": [
+    "Stark Law",
+    "HIPAA",
+    "21st Century Cures Act",
+    "HITECH Act"
+   ],
+   "answer": 2,
+   "explain": "Cures Act info-blocking rules (ONC).",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-026",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Two charts exist for the same patient. This is a…",
+   "choices": [
+    "breach",
+    "duplicate record (MPI issue)",
+    "clean claim",
+    "audit trail"
+   ],
+   "answer": 1,
+   "explain": "Duplicates are fixed through MPI merge processes.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-quiz-027",
+   "topic": "cehrs",
+   "type": "quiz",
+   "title": "CEHRS check",
+   "question": "Which is NOT one of the HIPAA Security Rule safeguard types?",
+   "choices": [
+    "Administrative",
+    "Physical",
+    "Financial",
+    "Technical"
+   ],
+   "answer": 2,
+   "explain": "Security Rule: administrative, physical, technical safeguards.",
+   "source": "NHA CEHRS test plan"
+  },
+  {
+   "id": "cehrs-read-028",
+   "topic": "cehrs",
+   "type": "read",
+   "title": "3 kinds of health information exchange",
+   "body": "**Directed** exchange: sending info provider-to-provider (like secure email). **Query-based**: searching for a patient's info, e.g. in the ER. **Consumer-mediated**: the patient collects and shares their own data.",
+   "source": "HealthIT.gov – Health Information Exchange"
+  },
+  {
+   "id": "cehrs-read-029",
+   "topic": "cehrs",
+   "type": "read",
+   "title": "Meaningful Use → Promoting Interoperability",
+   "body": "HITECH (2009) paid providers to adopt **certified EHR technology** and use it meaningfully: Stage 1 data capture, Stage 2 advanced clinical processes, Stage 3 improved outcomes. In 2018 CMS renamed it **Promoting Interoperability**.",
+   "source": "CMS Promoting Interoperability Programs"
+  },
+  {
+   "id": "cehrs-listen-030",
+   "topic": "cehrs",
+   "type": "listen",
+   "title": "Hear it: SOAP",
+   "text": "A SOAP note has four parts. Subjective: what the patient tells you. Objective: what you measure, like vital signs. Assessment: the diagnosis or impression. Plan: what happens next."
+  },
+  {
+   "id": "cehrs-listen-031",
+   "topic": "cehrs",
+   "type": "listen",
+   "title": "Hear it: code sets",
+   "text": "ICD ten CM tells why the patient was seen. CPT tells what was done. HCPCS level two covers supplies and equipment. Together they tell the payer the whole story."
+  },
+  {
+   "id": "cehrs-speak-032",
+   "topic": "cehrs",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What do the letters in SOAP stand for?",
+   "answer": "Subjective, Objective, Assessment, Plan",
+   "keywords": [
+    "subjective",
+    "objective",
+    "assessment",
+    "plan"
+   ]
+  },
+  {
+   "id": "cehrs-speak-033",
+   "topic": "cehrs",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "Which code set is used for diagnoses?",
+   "answer": "ICD-10-CM",
+   "keywords": [
+    "icd",
+    "i c d",
+    "10"
+   ],
+   "match": "any"
+  },
+  {
+   "id": "cehrs-demo-034",
+   "topic": "cehrs",
+   "type": "demo",
+   "title": "Register a new patient in the EHR",
+   "steps": [
+    "Search the MPI first (name + DOB) — avoid duplicates",
+    "Not found → create new record",
+    "Enter demographics: legal name, DOB, sex, address, phone",
+    "Scan photo ID and insurance card (front & back)",
+    "Run an eligibility check (270/271)",
+    "Get signed HIPAA Notice of Privacy Practices acknowledgment",
+    "Save → patient ready for scheduling"
+   ]
+  },
+  {
+   "id": "cehrs-demo-035",
+   "topic": "cehrs",
+   "type": "demo",
+   "title": "Life of a claim",
+   "steps": [
+    "Visit documented in EHR",
+    "Coder assigns ICD-10-CM + CPT/HCPCS",
+    "Charges entered; claim built (837P)",
+    "Claim scrubber checks for errors",
+    "Sent through clearinghouse to payer",
+    "Payer adjudicates: pay, deny, or reject",
+    "835 remittance posted; patient billed for balance"
+   ]
+  },
+  {
+   "id": "cehrs-scenario-036",
+   "topic": "cehrs",
+   "type": "scenario",
+   "title": "Wrong chart",
+   "setup": "You're documenting vitals and realize you opened the chart of a different patient with the same last name. You've already saved the BP.",
+   "choices": [
+    {
+     "text": "Delete the entry so nobody sees it",
+     "correct": false,
+     "result": "Never delete. EHR changes must be traceable. ❌"
+    },
+    {
+     "text": "Follow the correction process: mark the entry as entered in error with your reason, then document in the right chart",
+     "correct": true,
+     "result": "Correct — the audit trail keeps the original plus the correction. ✅"
+    },
+    {
+     "text": "Leave it; it's just one BP",
+     "correct": false,
+     "result": "Wrong data in a chart can harm the patient. ❌"
+    }
+   ]
+  },
+  {
+   "id": "cehrs-scenario-037",
+   "topic": "cehrs",
+   "type": "scenario",
+   "title": "Phishing at the front desk",
+   "setup": "An email ‘from IT’ asks you to confirm your EHR password via a link before 5 PM or be locked out.",
+   "choices": [
+    {
+     "text": "Click and log in — don't want to be locked out",
+     "correct": false,
+     "result": "That's how credentials and ePHI get stolen. ❌"
+    },
+    {
+     "text": "Don't click; report it to IT/security through a known channel",
+     "correct": true,
+     "result": "Yes. Real IT never asks for your password by email. ✅"
+    }
+   ]
+  },
+  {
+   "id": "admin-flip-001",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Deductible",
+   "back": "What you pay each year before insurance starts paying its share.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-002",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Copay",
+   "back": "A fixed amount you pay for a service (e.g., $25 per visit).",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-003",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Coinsurance",
+   "back": "Your percentage share after the deductible (e.g., 20%).",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-004",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Premium",
+   "back": "The monthly cost of having the insurance plan.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-005",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Out-of-pocket max",
+   "back": "The most you pay in a plan year for covered in-network care; then the plan pays 100%.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-006",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Medicare Part A",
+   "back": "Hospital insurance (inpatient, skilled nursing, hospice).",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-007",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Medicare Part B",
+   "back": "Medical insurance (doctor visits, outpatient, preventive).",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-008",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Medicare Part C",
+   "back": "Medicare Advantage — private plans that bundle A & B (often D).",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-009",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Medicare Part D",
+   "back": "Prescription drug coverage.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-010",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Medicaid",
+   "back": "Joint federal–state program for people with limited income/resources.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-011",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "TRICARE",
+   "back": "Health program for military members, retirees and families.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-012",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Prior authorization",
+   "back": "Payer approval required BEFORE a service or drug is covered.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-013",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Birthday rule",
+   "back": "For a child covered by both parents, the parent whose birthday (month/day) comes first in the year is primary.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-014",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "EMTALA",
+   "back": "Federal law: hospitals with ERs must screen and stabilize anyone with an emergency, regardless of ability to pay.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-015",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Stark Law",
+   "back": "Bans physician self-referral of Medicare/Medicaid patients to entities they (or family) have a financial relationship with, with exceptions.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-flip-016",
+   "topic": "admin",
+   "type": "flip",
+   "title": "Healthcare admin term",
+   "front": "Anti-Kickback Statute",
+   "back": "Makes it a crime to pay or receive anything of value for referrals of federal health program business.",
+   "source": "CMS.gov / HealthCare.gov glossary"
+  },
+  {
+   "id": "admin-quiz-017",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "Under HIPAA, which disclosure does NOT need patient authorization?",
+   "choices": [
+    "Telling a reporter about a celebrity patient",
+    "Selling patient lists to marketers",
+    "Posting a patient's photo on social media",
+    "Sharing with another provider for treatment"
+   ],
+   "answer": 3,
+   "explain": "Treatment, Payment and Operations (TPO) are permitted without authorization.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-018",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "A breach affects 600 people in one state. Who must be notified?",
+   "choices": [
+    "Only the individuals, within 1 year",
+    "Nobody if it was an accident",
+    "Only HHS, at year-end",
+    "Individuals, HHS, and prominent media — within 60 days of discovery"
+   ],
+   "answer": 3,
+   "explain": "500+ residents of a state → media too; HHS within 60 days.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-019",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "The ‘minimum necessary’ standard means…",
+   "choices": [
+    "Treatment always gets minimum info",
+    "Store as little data as possible",
+    "Collect only the minimum copay",
+    "Use/disclose only the least PHI needed for the purpose"
+   ],
+   "answer": 3,
+   "explain": "Note: minimum necessary does NOT apply to disclosures to providers for treatment.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-020",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "Who enforces HIPAA Privacy & Security Rules?",
+   "choices": [
+    "The Joint Commission",
+    "HHS Office for Civil Rights (OCR)",
+    "FDA",
+    "DEA"
+   ],
+   "answer": 1,
+   "explain": "OCR investigates complaints and issues penalties.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-021",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "Patients generally must get access to their records within…",
+   "choices": [
+    "30 days (one 30-day extension allowed)",
+    "24 hours",
+    "1 year",
+    "They have no right of access"
+   ],
+   "answer": 0,
+   "explain": "HIPAA Right of Access, 45 CFR 164.524.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-022",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "HMO plans usually require…",
+   "choices": [
+    "Medicare eligibility",
+    "paying full price for primary care",
+    "a primary care provider and referrals to specialists",
+    "no network at all"
+   ],
+   "answer": 2,
+   "explain": "PPOs usually don't require referrals and cover some out-of-network care.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-023",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "Who generally qualifies for Medicare?",
+   "choices": [
+    "People 65+, some younger people with disabilities, and people with ESRD",
+    "Anyone with low income",
+    "Only children",
+    "Only veterans"
+   ],
+   "answer": 0,
+   "explain": "Low income → Medicaid; military → TRICARE/VA.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-quiz-024",
+   "topic": "admin",
+   "type": "quiz",
+   "title": "HIPAA & insurance",
+   "question": "A claim rejected for a missing field vs. denied by the payer — difference?",
+   "choices": [
+    "Denied claims can't be appealed",
+    "They're the same",
+    "Rejected = never processed (fix & resend); denied = processed but not paid (appeal)",
+    "Rejections are only for Medicare"
+   ],
+   "answer": 2,
+   "explain": "Know the difference for revenue cycle questions.",
+   "source": "HHS.gov HIPAA; CMS.gov"
+  },
+  {
+   "id": "admin-read-025",
+   "topic": "admin",
+   "type": "read",
+   "title": "HIPAA in 3 rules",
+   "body": "**Privacy Rule**: who can see/share PHI. **Security Rule**: protecting *electronic* PHI with administrative, physical and technical safeguards. **Breach Notification Rule**: who to tell, and how fast, when PHI is exposed.",
+   "source": "HHS.gov – HIPAA for Professionals"
+  },
+  {
+   "id": "admin-read-026",
+   "topic": "admin",
+   "type": "read",
+   "title": "18 identifiers",
+   "body": "Safe-harbor de-identification removes **18 identifiers** — names, small geographic areas, dates (except year), phone, fax, email, SSN, MRN, plan numbers, account numbers, license numbers, vehicle IDs, device IDs, URLs, IP addresses, biometrics, full-face photos, and any other unique number or code.",
+   "source": "HHS – Guidance on De-identification (45 CFR 164.514)"
+  },
+  {
+   "id": "admin-read-027",
+   "topic": "admin",
+   "type": "read",
+   "title": "The revenue cycle",
+   "body": "Scheduling → **registration & eligibility** → visit & documentation → **coding** → charge entry → **claim submission** → payment posting → **denial management** → patient billing & collections. Every front-desk mistake shows up later as a denial."
+  },
+  {
+   "id": "admin-listen-028",
+   "topic": "admin",
+   "type": "listen",
+   "title": "Hear it: SBAR handoff",
+   "text": "SBAR is a handoff format. Situation: what is happening now. Background: the relevant history. Assessment: what you think the problem is. Recommendation: what you need or suggest next."
+  },
+  {
+   "id": "admin-listen-029",
+   "topic": "admin",
+   "type": "listen",
+   "title": "Hear it: TPO",
+   "text": "Under HIPAA, protected health information can be used without the patient's written authorization for treatment, payment, and health care operations. That's called T P O."
+  },
+  {
+   "id": "admin-speak-030",
+   "topic": "admin",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What does SBAR stand for?",
+   "answer": "Situation, Background, Assessment, Recommendation",
+   "keywords": [
+    "situation",
+    "background",
+    "assessment",
+    "recommendation"
+   ]
+  },
+  {
+   "id": "admin-speak-031",
+   "topic": "admin",
+   "type": "speak",
+   "title": "Say it out loud",
+   "prompt": "What are the three types of HIPAA Security Rule safeguards?",
+   "answer": "Administrative, physical, technical",
+   "keywords": [
+    "administrative",
+    "physical",
+    "technical"
+   ]
+  },
+  {
+   "id": "admin-demo-032",
+   "topic": "admin",
+   "type": "demo",
+   "title": "SBAR handoff, live",
+   "steps": [
+    "S – “Mr. Lee, room 4, is short of breath since 2 PM.”",
+    "B – “68, COPD, admitted yesterday for pneumonia.”",
+    "A – “O2 sat dropped from 95% to 89%. I think he's getting worse.”",
+    "R – “Please come assess him now; should I start the ordered O2?”",
+    "Receiver reads back the key points ✔"
+   ],
+   "source": "AHRQ TeamSTEPPS"
+  },
+  {
+   "id": "admin-demo-033",
+   "topic": "admin",
+   "type": "demo",
+   "title": "Verify insurance before a visit",
+   "steps": [
+    "Collect card: member ID, group #, payer phone",
+    "Run eligibility (270/271) or payer portal",
+    "Confirm active coverage on the date of service",
+    "Note copay, deductible remaining, coinsurance",
+    "Check if referral / prior authorization is needed",
+    "Document everything in the account"
+   ]
+  },
+  {
+   "id": "admin-scenario-034",
+   "topic": "admin",
+   "type": "scenario",
+   "title": "The curious neighbor",
+   "setup": "At the pharmacy counter, your neighbor says: “I saw Maria from our street here yesterday — what's she taking?”",
+   "choices": [
+    {
+     "text": "“Just her blood pressure pills, nothing serious.”",
+     "correct": false,
+     "result": "That's a HIPAA violation — disclosing PHI with no permitted purpose. ❌"
+    },
+    {
+     "text": "“I'm sorry, I can't share anything about other customers. Can I help you with anything?”",
+     "correct": true,
+     "result": "Perfect: friendly, no confirmation she was even a patient. ✅"
+    },
+    {
+     "text": "“I can't say, but it's for her heart.”",
+     "correct": false,
+     "result": "Still a disclosure. ❌"
+    }
+   ]
+  },
+  {
+   "id": "admin-scenario-035",
+   "topic": "admin",
+   "type": "scenario",
+   "title": "Patient handoff",
+   "setup": "End of shift. You're handing off to the next tech: a pending prior auth for a patient's Ozempic is waiting on the doctor's office.",
+   "choices": [
+    {
+     "text": "“There's some PA thing, check the queue.”",
+     "correct": false,
+     "result": "Vague handoffs drop tasks. ❌"
+    },
+    {
+     "text": "“Patient X: semaglutide PA pending. Faxed Dr. Y at 2 PM. Insurer needs A1c. Call office by 10 AM; patient expects a call.”",
+     "correct": true,
+     "result": "Clear SBAR-style handoff with who, what, status and next step. ✅"
+    }
+   ]
+  },
+  {
+   "id": "admin-scenario-036",
+   "topic": "admin",
+   "type": "scenario",
+   "title": "Self-pay or bill it?",
+   "setup": "A patient says: “I'll pay cash for this visit — please don't send anything to my insurance.”",
+   "choices": [
+    {
+     "text": "Bill insurance anyway — rules are rules",
+     "correct": false,
+     "result": "Under HIPAA, if a patient pays in full out of pocket, they can restrict disclosure to their health plan. ❌"
+    },
+    {
+     "text": "Honor it: collect payment in full and flag the restriction in the record",
+     "correct": true,
+     "result": "Correct (HIPAA, 45 CFR 164.522). ✅"
+    }
+   ],
+   "source": "HHS.gov – Right to request restrictions"
+  },
+  {
+   "id": "terms-flip-001",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "coagul/o",
+   "back": "clotting",
+   "note": "e.g. anticoagulant (drug that prevents clotting)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-002",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cochle/o",
+   "back": "cochlea",
+   "note": "e.g. cochlear implant (hearing device)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-003",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-acusis",
+   "back": "hearing condition",
+   "note": "e.g. presbycusis (age-related hearing loss)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-004",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "pachy-",
+   "back": "thick",
+   "note": "e.g. pachyderma (abnormally thick skin)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-005",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lymphaden/o",
+   "back": "lymph node",
+   "note": "e.g. lymphadenopathy (swollen lymph nodes)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-006",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "kerat/o",
+   "back": "hard, horny tissue; cornea",
+   "note": "e.g. keratosis (thickened skin growth)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-007",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "conjunctiv/o",
+   "back": "conjunctiva",
+   "note": "e.g. conjunctivitis (pink eye)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-008",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-paresis",
+   "back": "slight paralysis, weakness",
+   "note": "e.g. hemiparesis (weakness on one side)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-009",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-tropia",
+   "back": "turning",
+   "note": "e.g. esotropia (eye turning inward)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-010",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-asthenia",
+   "back": "weakness",
+   "note": "e.g. myasthenia (muscle weakness)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-011",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-taxia",
+   "back": "order, coordination",
+   "note": "e.g. ataxia (lack of muscle coordination)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-012",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lymph/o",
+   "back": "lymph",
+   "note": "e.g. lymphedema (swelling from lymph buildup)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-013",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "concuss/o",
+   "back": "shaken violently",
+   "note": "e.g. concussion (brain injury from a blow)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-014",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "rhytid/o",
+   "back": "wrinkle",
+   "note": "e.g. rhytidectomy (facelift)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-015",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hem/o, hemat/o",
+   "back": "blood",
+   "note": "e.g. hematology (study of blood)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-016",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "retin/o",
+   "back": "retina",
+   "note": "e.g. retinopathy (disease of the retina)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-017",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cephal/o",
+   "back": "head",
+   "note": "e.g. cephalalgia (headache)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-018",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "myring/o, tympan/o",
+   "back": "eardrum",
+   "note": "e.g. myringotomy (incision of the eardrum)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-019",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "calc/o, calci/o",
+   "back": "calcium",
+   "note": "e.g. hypercalcemia (high blood calcium)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-020",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "phag/o",
+   "back": "eat, swallow",
+   "note": "e.g. phagocyte (cell that engulfs microbes)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-021",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "audi/o, acous/o",
+   "back": "hearing",
+   "note": "e.g. audiometry (hearing test)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-022",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "corne/o, kerat/o (eye)",
+   "back": "cornea",
+   "note": "e.g. keratitis (inflammation of the cornea)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-023",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "encephal/o",
+   "back": "brain",
+   "note": "e.g. encephalitis (inflammation of the brain)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-024",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cortic/o",
+   "back": "cortex, outer layer",
+   "note": "e.g. corticosteroid (adrenal cortex hormone)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-025",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "immun/o",
+   "back": "immune, protection",
+   "note": "e.g. immunology (study of the immune system)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-026",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-esthesia",
+   "back": "sensation, feeling",
+   "note": "e.g. anesthesia (loss of sensation)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-027",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-mania",
+   "back": "obsessive preoccupation",
+   "note": "e.g. kleptomania (compulsion to steal)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-028",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "kinesi/o",
+   "back": "movement",
+   "note": "e.g. kinesiology (study of movement)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-029",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-cytosis",
+   "back": "increase in cells (abnormal)",
+   "note": "e.g. leukocytosis (high white count)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-030",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "neutr/o",
+   "back": "neutral; neutrophil",
+   "note": "e.g. neutropenia (low neutrophils)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-031",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "insulin/o",
+   "back": "insulin",
+   "note": "e.g. insulinoma (insulin-producing tumor)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-032",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ophthalm/o, ocul/o",
+   "back": "eye",
+   "note": "e.g. ophthalmologist (eye physician)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-033",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "rhabd/o",
+   "back": "rod-shaped, striated (skeletal muscle)",
+   "note": "e.g. rhabdomyolysis (breakdown of skeletal muscle)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-034",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-tropin",
+   "back": "stimulating hormone",
+   "note": "e.g. thyrotropin (thyroid-stimulating hormone)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-035",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "seb/o",
+   "back": "sebum, oil",
+   "note": "e.g. seborrhea (excess oil production)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-036",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-blast",
+   "back": "immature/embryonic cell",
+   "note": "e.g. osteoblast (bone-forming cell)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-037",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ton/o",
+   "back": "tension, pressure",
+   "note": "e.g. tonometry (measuring eye pressure)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-038",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "sider/o",
+   "back": "iron",
+   "note": "e.g. sideropenia (iron deficiency)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-039",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-clasia, -clast",
+   "back": "break / cell that breaks down",
+   "note": "e.g. osteoclast (cell that breaks down bone)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-040",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "blephar/o, palpebr/o",
+   "back": "eyelid",
+   "note": "e.g. blepharitis (eyelid inflammation)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-041",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "phak/o, phac/o",
+   "back": "lens of the eye",
+   "note": "e.g. aphakia (absence of the lens)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-042",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "adren/o, adrenal/o",
+   "back": "adrenal gland",
+   "note": "e.g. adrenalectomy (removal of an adrenal gland)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-043",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "scler/o",
+   "back": "hard; sclera of eye",
+   "note": "e.g. scleroderma (hardening of the skin)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-044",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gluc/o, glyc/o",
+   "back": "sugar, glucose",
+   "note": "e.g. glycemic (pertaining to blood sugar)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-045",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "irid/o, ir/o",
+   "back": "iris",
+   "note": "e.g. iridectomy (removal of part of the iris)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-046",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "dur/o",
+   "back": "dura mater",
+   "note": "e.g. subdural hematoma (blood under the dura)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-047",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-porosis",
+   "back": "porous condition",
+   "note": "e.g. osteoporosis (thinning, porous bone)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-048",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thalam/o",
+   "back": "thalamus",
+   "note": "e.g. hypothalamus (region below the thalamus)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-049",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "eosin/o",
+   "back": "rosy, red; eosinophil",
+   "note": "e.g. eosinophilia (high eosinophils)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-050",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-globin",
+   "back": "protein",
+   "note": "e.g. hemoglobin (oxygen-carrying protein)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-051",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "myc/o",
+   "back": "fungus",
+   "note": "e.g. dermatomycosis (fungal skin infection)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-052",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ot/o, aur/i",
+   "back": "ear",
+   "note": "e.g. otitis media (middle ear infection)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-053",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "kal/i",
+   "back": "potassium",
+   "note": "e.g. hyperkalemia (high blood potassium)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-054",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "onych/o, ungu/o",
+   "back": "nail",
+   "note": "e.g. onychomycosis (fungal nail infection)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-055",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thyr/o, thyroid/o",
+   "back": "thyroid gland",
+   "note": "e.g. hypothyroidism (underactive thyroid)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-056",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-derma",
+   "back": "skin",
+   "note": "e.g. leukoderma (white patches of skin)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-057",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "endocrin/o",
+   "back": "endocrine (secreting within)",
+   "note": "e.g. endocrinologist (hormone specialist)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-058",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "mening/o",
+   "back": "meninges",
+   "note": "e.g. meningitis (inflammation of the meninges)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-059",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "natr/o",
+   "back": "sodium",
+   "note": "e.g. hyponatremia (low blood sodium)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-060",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "psych/o",
+   "back": "mind",
+   "note": "e.g. psychology (study of the mind)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-061",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "lacrim/o, dacry/o",
+   "back": "tear, tear duct",
+   "note": "e.g. lacrimal gland (tear gland)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-062",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "aden/o",
+   "back": "gland",
+   "note": "e.g. adenoma (benign glandular tumor)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-063",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "crin/o",
+   "back": "to secrete",
+   "note": "e.g. exocrine (secreting outward through ducts)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-064",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-physis",
+   "back": "growth",
+   "note": "e.g. epiphysis (end of a long bone)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-065",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "parathyroid/o",
+   "back": "parathyroid glands",
+   "note": "e.g. parathyroidectomy (removal of parathyroid tissue)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-066",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "radicul/o",
+   "back": "nerve root",
+   "note": "e.g. radiculopathy (disease of a nerve root)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-067",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ichthy/o",
+   "back": "scaly, fish-like",
+   "note": "e.g. ichthyosis (dry, scaly skin)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-068",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "splen/o",
+   "back": "spleen",
+   "note": "e.g. splenomegaly (enlarged spleen)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-069",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-crit",
+   "back": "to separate",
+   "note": "e.g. hematocrit (percentage of red cells in blood)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-070",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "opt/o, -opia",
+   "back": "vision",
+   "note": "e.g. myopia (nearsightedness)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-071",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thrombocyt/o",
+   "back": "platelet",
+   "note": "e.g. thrombocytopenia (low platelets)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-072",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "scoli/o",
+   "back": "crooked, bent",
+   "note": "e.g. scoliosis (sideways spine curve)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-073",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-algesia",
+   "back": "sensitivity to pain",
+   "note": "e.g. analgesic (pain reliever)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-074",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-lepsy",
+   "back": "seizure",
+   "note": "e.g. epilepsy (recurrent seizures)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-075",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gangli/o",
+   "back": "ganglion (nerve cell cluster)",
+   "note": "e.g. ganglionectomy (removal of a ganglion)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-076",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "thym/o",
+   "back": "thymus gland",
+   "note": "e.g. thymoma (tumor of the thymus)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-077",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-apheresis",
+   "back": "removal, separation",
+   "note": "e.g. plasmapheresis (removing and treating plasma)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-078",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pupill/o, cor/o",
+   "back": "pupil",
+   "note": "e.g. pupillary (pertaining to the pupil)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-079",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "bas/o",
+   "back": "base; basophil",
+   "note": "e.g. basophil (white cell staining with basic dye)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-080",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "trich/o, pil/o",
+   "back": "hair",
+   "note": "e.g. trichology (study of hair)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-081",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "xer/o",
+   "back": "dry",
+   "note": "e.g. xeroderma (dry skin)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-082",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "hidr/o",
+   "back": "sweat",
+   "note": "e.g. hyperhidrosis (excessive sweating)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-083",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "myel/o (nervous)",
+   "back": "spinal cord",
+   "note": "e.g. myelogram (x-ray of spinal canal with contrast)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-084",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "erythem/o",
+   "back": "redness",
+   "note": "e.g. erythema (redness of the skin)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-085",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "acr/o",
+   "back": "extremities, height",
+   "note": "e.g. acromegaly (enlarged hands, feet, face)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-086",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "gli/o",
+   "back": "glue; glial (supporting) cells",
+   "note": "e.g. glioma (tumor of glial cells)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-087",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "somn/o, hypn/o",
+   "back": "sleep",
+   "note": "e.g. insomnia (inability to sleep)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-088",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cerebell/o",
+   "back": "cerebellum",
+   "note": "e.g. cerebellar ataxia (loss of coordination)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-089",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "derm/o, dermat/o, cutane/o",
+   "back": "skin",
+   "note": "e.g. dermatitis (skin inflammation)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-090",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "cerebr/o",
+   "back": "cerebrum, brain",
+   "note": "e.g. cerebrovascular (brain blood vessels)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-091",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "dipl/o",
+   "back": "double",
+   "note": "e.g. diplopia (double vision)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-092",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "neur/o",
+   "back": "nerve",
+   "note": "e.g. neuralgia (nerve pain)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-093",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ment/o",
+   "back": "mind",
+   "note": "e.g. mental (pertaining to the mind)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-094",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "pituitar/o, hypophys/o",
+   "back": "pituitary gland",
+   "note": "e.g. hypophysectomy (removal of the pituitary)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-095",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "ser/o",
+   "back": "serum",
+   "note": "e.g. serology (study of serum, antibodies)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-096",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Prefix",
+   "front": "presby-, presby/o",
+   "back": "old age",
+   "note": "e.g. presbyopia (age-related loss of near focus)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-097",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Suffix",
+   "front": "-orexia",
+   "back": "appetite",
+   "note": "e.g. anorexia (loss of appetite)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-098",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "phalang/o",
+   "back": "phalanges (finger/toe bones)",
+   "note": "e.g. phalangeal (pertaining to finger or toe bones)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-099",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "femor/o",
+   "back": "femur, thigh bone",
+   "note": "e.g. femoral (pertaining to the femur)",
+   "source": "Medical terminology textbook"
+  },
+  {
+   "id": "terms-flip-100",
+   "topic": "terms",
+   "type": "flip",
+   "title": "Med term · Root/combining form",
+   "front": "coccyg/o",
+   "back": "coccyx, tailbone",
+   "note": "e.g. coccygeal (pertaining to the tailbone)",
+   "source": "Medical terminology textbook"
+  }
+ ]
+}
